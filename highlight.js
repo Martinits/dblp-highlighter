@@ -1,4 +1,6 @@
-let databaseURL = "https://raw.githubusercontent.com/Martinits/dblp-highlighter/master/database.csv";
+// let databaseURL = "https://raw.githubusercontent.com/Martinits/dblp-highlighter/master/database.csv";
+let databaseURL = chrome.runtime.getURL("database.csv");
+console.log(databaseURL);
 
 let catagoryMapping = ["", "计算机体系结构/并行与分布计算/存储系统", "计算机网络", "网络与信息安全", "软件工程/系统软件/程序设计语言", "数据库/数据挖掘/内容检索", "计算机科学理论", "计算机图形学与多媒体", "人工智能", "人机交互与普适计算", "交叉/综合/新兴"]
 
@@ -70,7 +72,7 @@ function handleNode(target) {
         let outer = document.createElement('div');
         let node = document.createElement('span');
         outer.appendChild(node);
-        node.innerHTML = `&nbsp;CCF${descriptor.text}&nbsp;`;
+        node.innerHTML = `&nbsp;CCF&nbsp;${descriptor.text}&nbsp;`;
         node.style = `background-color: ${descriptor.color};color: white;border-radius: 5px;`;
         target.appendChild(outer);
     }
@@ -96,12 +98,12 @@ function mutationHandler(mutationRecords) {
     let ok = await initialize();
     if (!ok) return;
 
+    console.log("dblp-highlighter loaded!");
+
     while (document.readyState !== "complete") {
         await new Promise(r => setTimeout(r, 1));
     }
 
     appendDescriptor();
     pageObserver.observe(document, obsConfig);
-
-    console.log("dblp-highlighter loaded!");
 })();

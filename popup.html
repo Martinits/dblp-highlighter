@@ -1,16 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        #content{color: green;}
-    </style>
+    <meta charset="utf-8"></meta>
+    <link rel="stylesheet" type="text/css" href="popup.css">
 </head>
+
 <body>
-    <h1>chrome-plugin-test</h1>
-    <p id="content"></p>
+    <div class="content">
+        <div class="search">
+            <input type="text" id="val" placeholder="Enter to Search">
+            <input type="submit" id="sub">
+        </div>
+        <div class="show" id="show">
+            <!-- <p></p> -->
+        </div>
+    </div>
     <script src="popup.js"></script>
 </body>
+
 </html>

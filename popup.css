@@ -1,0 +1,38 @@
+.content {
+    width: 500px;
+    margin: 40px auto;
+}
+
+.search {
+    width: 400px;
+    overflow: hidden;
+}
+
+.search input {
+    float: left;
+}
+
+#val {
+    height: 35px;
+    width: 300px;
+    padding-left: 10px;
+}
+
+#sub {
+    height: 40px;
+    width: 80px;
+    margin-left: 3px;
+    font-size: 20px;
+}
+
+.show {
+    width: 302px;
+    height: 300px;
+    border: 1px solid #ccc;
+    padding-left: 10px;
+    display: none;
+}
+
+.show p {
+    font-size: 12px;
+}
