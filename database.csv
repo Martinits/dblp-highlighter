@@ -29,7 +29,7 @@ conf/ppopp,A,Conference,1
 conf/fast,A,Conference,1
 conf/dac,A,Conference,1
 conf/cnhpca,A,Conference,1
-journals/micro,A,Conference,1
+conf/micro,A,Conference,1
 conf/sc,A,Conference,1
 conf/asplos,A,Conference,1
 conf/isca,A,Conference,1
