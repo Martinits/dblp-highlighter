@@ -1,4 +1,4 @@
-let databaseURL = "https://raw.githubusercontent.com/AsterNighT/Userscripts/master/scripts/paperjudge/database.csv";
+let databaseURL = "https://raw.githubusercontent.com/Martinits/dblp-highlighter/master/database.csv";
 
 let catagoryMapping = ["", "计算机体系结构/并行与分布计算/存储系统", "计算机网络", "网络与信息安全", "软件工程/系统软件/程序设计语言", "数据库/数据挖掘/内容检索", "计算机科学理论", "计算机图形学与多媒体", "人工智能", "人机交互与普适计算", "交叉/综合/新兴"]
 
