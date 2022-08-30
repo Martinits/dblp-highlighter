@@ -1,0 +1,25 @@
+{
+    "name": "dblp highlighter",
+    "version": "1.0",
+    "description": "Highlight CCFA/B/C in dblp.org",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": {
+            "260": "images/phd.png"
+        },
+        "default_title": "dblp highlighter",
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://dblp.org/*"],
+            "js": ["jquery.min.js", "jquery.csv.js", "highlight.js"]
+        }
+    ],
+    "host_permissions": [
+        "https://dblp.org/*"
+    ],
+    "permissions": [
+        "tabs"
+    ]
+}
