@@ -21,14 +21,14 @@ journals/fgcs,C,Journal,1
 journals/tcc,C,Journal,1
 journals/integration,C,Journal,1
 journal/10836,C,Journal,1
-journal/10723,C,Journal,1
+journal/grid,C,Journal,1
 journals/mam,C,Journal,1
 journals/rts,C,Journal,1
 journals/tjs,C,Journal,1
 conf/ppopp,A,Conference,1
 conf/fast,A,Conference,1
 conf/dac,A,Conference,1
-conf/cnhpca,A,Conference,1
+conf/hpca,A,Conference,1
 conf/micro,A,Conference,1
 conf/sc,A,Conference,1
 conf/asplos,A,Conference,1
@@ -262,7 +262,7 @@ conf/tools,C,Conference,4
 conf/IEEEscc,C,Conference,4
 conf/ispw,C,Conference,4
 conf/seke,C,Conference,4
-paris.utdallas.edu/qrs,C,Conference,4
+conf/qrs,C,Conference,4
 conf/icsr,C,Conference,4
 conf/icwe,C,Conference,4
 conf/spin,C,Conference,4
@@ -396,7 +396,7 @@ journal/jasa,B,Journal,7
 journals/siamis,B,Journal,7
 journals/speech,B,Journal,7
 journals/comgeo,C,Journal,7
-journal/10.1002/(ISSN)1546-427X,C,Journal,7
+journal/10.1002,C,Journal,7
 journals/cg,C,Journal,7
 journals/dcg,C,Journal,7
 journals/spl,C,Journal,7
@@ -587,7 +587,7 @@ journals/jamia,B,Journal,10
 journals/ploscb,B,Journal,10
 journals/chinaf,B,Journal,10
 journals/cj,B,Journal,10
-journals/wwwj,B,Journal,10
+journals/11280,B,Journal,10
 journals/bmcbi,C,Journal,10
 journals/cas,C,Journal,10
 journals/fcsc,C,Journal,10
@@ -599,7 +599,7 @@ journals/jbi,C,Journal,10
 journals/mia,C,Journal,10
 conf/www,A,Conference,10
 conf/rtss,A,Conference,10
-cognitivesciencesociety.org/conference2013,B,Conference,10
+conf/cogsci,B,Conference,10
 conf/bibm,B,Conference,10
 conf/emsoft,B,Conference,10
 iscb.org/about-ismb,B,Conference,10

@@ -13,17 +13,17 @@
     "content_scripts": [
         {
             "matches": [
-                "https://dblp.org/search?q=*",
-                "https://dblp.uni-trier.de/search?q=*",
-                "https://dblp.dagstuhl.de/search?q=*"
+                "https://dblp.org/*",
+                "https://dblp.uni-trier.de/*",
+                "https://dblp.dagstuhl.de/*"
             ],
             "js": ["jquery.min.js", "jquery.csv.js", "highlight.js"]
         }
     ],
     "host_permissions": [
-        "https://dblp.org/search?q=*",
-        "https://dblp.uni-trier.de/search?q=*",
-        "https://dblp.dagstuhl.de/search?q=*"
+        "https://dblp.org/*",
+        "https://dblp.uni-trier.de/*",
+        "https://dblp.dagstuhl.de/*"
     ],
     "permissions": [
         "tabs"
