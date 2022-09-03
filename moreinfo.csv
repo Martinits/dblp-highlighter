@@ -1,0 +1,613 @@
+﻿key,level,type,category,fullname,publisher,url
+tocs,A,Journal,1,ACM Transactions on Computer Systems,ACM,http://dblp.uni-trier.de/db/journals/tocs/
+tos,A,Journal,1,ACM Transactions on Storage,ACM,http://dblp.uni-trier.de/db/journals/tos/
+tcad,A,Journal,1,IEEE Transactions on Computer-Aided Design of Integrated Circuits And System,IEEE,http://dblp.uni-trier.de/db/journals/tcad/
+tc,A,Journal,1,IEEE Transactions on Computers,IEEE,http://dblp.uni-trier.de/db/journals/tc/index.html
+tpds,A,Journal,1,IEEE Transactions on Parallel and Distributed Systems,IEEE,http://dblp.uni-trier.de/db/journals/tpds/
+taco,B,Journal,1,ACM Transactions on Architecture and Code Optimization,ACM,http://dblp.uni-trier.de/db/journals/taco/
+taas,B,Journal,1,ACM Transactions on Autonomous and Adaptive Systems,ACM,http://dblp.uni-trier.de/db/journals/taas/
+todaes,B,Journal,1,ACM Transactions on Design Automation of Electronic Systems,ACM,http://dblp.uni-trier.de/db/journals/todaes/
+tecs,B,Journal,1,ACM Transactions on Embedded Computing Systems,ACM,http://dblp.uni-trier.de/db/journals/tecs/
+trets,B,Journal,1,ACM Transactions on Reconfigurable Technology and Systems,ACM,http://dblp.uni-trier.de/db/journals/trets/
+tvlsi,B,Journal,1,IEEE Transactions on Very Large Scale Integration (VLSI) Systems,IEEE,http://dblp.uni-trier.de/db/journals/tvlsi/
+jpdc,B,Journal,1,Journal of Parallel and Distributed Computing,Elsevier,http://dblp.uni-trier.de/db/journals/jpdc/
+jsa,B,Journal,1,Journal of Systems Architecture: Embedded Software Design,Elsevier,http://dblp.uni-trier.de/db/journals/jsa/
+parco,B,Journal,1,Parallel Computing,Elsevier,http://dblp.uni-trier.de/db/conf/parco/
+pe,B,Journal,1,Performance Evaluation: An International Journal,Elsevier,http://www.journals.elsevier.com/performance-evaluation/
+jetc,C,Journal,1,ACM Journal on Emerging Technologies in Computing Systems,ACM,http://dblp.uni-trier.de/db/journals/jetc/
+ccpe,C,Journal,1,Concurrency and Computation: Practice and Experience,Wiley,http://dblp.uni-trier.de/db/journals/concurrency/
+dc,C,Journal,1,Distributed Computing,Springer,http://dblp.uni-trier.de/db/journals/dc/
+fgcs,C,Journal,1,Future Generation Computer Systems,Elsevier,http://dblp.uni-trier.de/db/journals/fgcs/
+tcc,C,Journal,1,IEEE Transactions on Cloud Computing,IEEE,https://dblp.uni-trier.de/db/journals/tcc/
+integration,C,Journal,1,"Integration, the VLSI Journal",Elsevier,http://dblp.uni-trier.de/db/journals/integration/
+jetta,C,Journal,1,Journal of Electronic Testing-Theory and Applications,Springer,http://link.springer.com/journal/10836
+jgc,C,Journal,1,Journal of Grid computing,Springer,https://dblp.uni-trier.de/db/journals/grid/
+micpro,C,Journal,1,Microprocessors and Microsystems: Embedded Hardware Design,Elsevier,http://dblp.uni-trier.de/db/journals/mam/
+rts,C,Journal,1,Real-Time Systems,Springer,http://dblp.uni-trier.de/db/journals/rts/
+tjsc,C,Journal,1,The Journal of Supercomputing,Springer,http://dblp.uni-trier.de/db/journals/tjs/
+ppopp,A,Conference,1,ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming,ACM,http://dblp.uni-trier.de/db/conf/ppopp/
+fast,A,Conference,1,Conference on File and Storage Technologies,USENIX,http://dblp.uni-trier.de/db/conf/fast/
+dac,A,Conference,1,Design Automation Conference,ACM,https://dblp.uni-trier.de/db/conf/dac/
+hpca,A,Conference,1,High Performance Computer Architecture,IEEE,http://dblp.uni-trier.de/db/conf/hpca/
+micro,A,Conference,1,IEEE/ACM International Symposium on Microarchitecture,IEEE/ACM,https://dblp.uni-trier.de/db/conf/micro/
+sc,A,Conference,1,"International Conference for High Performance Computing, Networking, Storage, and Analysis",IEEE,http://dblp.uni-trier.de/db/conf/sc/
+asplos,A,Conference,1,International Conference on Architectural Support for Programming Languages and Operating Systems,ACM,http://dblp.uni-trier.de/db/conf/asplos/
+isca,A,Conference,1,International Symposium on Computer Architecture,ACM /IEEE,http://dblp.uni-trier.de/db/conf/isca/
+usenixatc,A,Conference,1,USENIX Annul Technical Conference,USENIX,http://dblp.uni-trier.de/db/conf/usenix/index.html
+socc,B,Conference,1,ACM Symposium on Cloud Computing,ACM,http://dblp.uni-trier.de/db/conf/cloud/
+spaa,B,Conference,1,ACM Symposium on Parallelism in Algorithms and Architectures,ACM,http://dblp.uni-trier.de/db/conf/spaa/
+podc,B,Conference,1,ACM Symposium on Principles of Distributed Computing,ACM,http://dblp.uni-trier.de/db/conf/podc/
+fpga,B,Conference,1,ACM/SIGDA International Symposium on Field-Programmable Gate Arrays,ACM,http://dblp.uni-trier.de/db/conf/fpga/
+cgo,B,Conference,1,Code Generation and Optimization,IEEE/ACM,http://dblp.uni-trier.de/db/conf/cgo/
+date,B,Conference,1,"Design, Automation & Test in Europe",IEEE/ACM,http://dblp.uni-trier.de/db/conf/date/
+eurosys,B,Conference,1,European Conference on Computer Systems,ACM,http://dblp.uni-trier.de/db/conf/eurosys/
+hotchips,B,Conference,1,Hot Chips: A Symposium on High Performance Chips,IEEE,http://www.hotchips.org/
+cluster,B,Conference,1,IEEE International Conference on Cluster Computing,IEEE,https://dblp.uni-trier.de/db/conf/cluster/
+iccd,B,Conference,1,International Conference on Computer Design,IEEE,http://dblp.uni-trier.de/db/conf/iccd/
+iccad,B,Conference,1,International Conference on Computer-Aided Design,IEEE/ACM,http://dblp.uni-trier.de/db/conf/iccad/
+icdcs,B,Conference,1,International Conference on Distributed Computing Systems,IEEE,http://dblp.uni-trier.de/db/conf/icdcs/
+codes,B,Conference,1,International Conference on Hardware/Software Co-design and System Synthesis,ACM/ IEEE,http://dblp.uni-trier.de/db/conf/codes/index.html
+hipeac,B,Conference,1,International Conference on High Performance and Embedded Architectures and Compilers,ACM,http://dblp.uni-trier.de/db/conf/hipeac/
+sigmetrics,B,Conference,1,International Conference on Measurement and Modeling of Computer Systems,ACM,http://dblp.uni-trier.de/db/conf/sigmetrics/
+pact,B,Conference,1,International Conference on Parallel Architectures  Compilation Techniques,IEEE/ACM,http://dblp.uni-trier.de/db/conf/IEEEpact/
+icpp,B,Conference,1,International Conference on Parallel Processing,,http://dblp.uni-trier.de/db/conf/icpp/
+ics,B,Conference,1,International Conference on Supercomputing,ACM,http://dblp.uni-trier.de/db/conf/ics/
+vee,B,Conference,1,International Conference on Virtual Execution Environments,ACM,http://dblp.uni-trier.de/db/conf/vee/
+ipdps,B,Conference,1,International Parallel & Distributed Processing Symposium,IEEE,http://dblp.uni-trier.de/db/conf/ipps/
+performance,B,Conference,1,"International Symposium on Computer Performance Modeling, Measurements and Evaluation",ACM,http://dblp.uni-trier.de/db/conf/performance/
+hpdc,B,Conference,1,International Symposium on High Performance Distributed Computing,IEEE,http://dblp.uni-trier.de/db/conf/hpdc/
+itc,B,Conference,1,International Test Conference,IEEE,http://dblp.uni-trier.de/db/conf/itc/
+lisa,B,Conference,1,Large Installation System Administration Conference,USENIX,http://dblp.uni-trier.de/db/conf/lisa/
+mss,B,Conference,1,Mass Storage Systems and Technologies,IEEE,http://dblp.uni-trier.de/db/conf/mss/
+rtas,B,Conference,1,Real-Time and Embedded Technology and Applications Symposium,IEEE,http://dblp.uni-trier.de/db/conf/rtas/
+cf,C,Conference,1,ACM International Conference on Computing Frontiers,ACM,http://dblp.uni-trier.de/db/conf/cf
+systor,C,Conference,1,ACM International Systems and Storage Conference,ACM,http://dblp.uni-trier.de/db/conf/systor/index.html
+nocs,C,Conference,1,ACM/IEEE International Symposium on Networks-on-Chip,ACM/IEEE,http://dblp.uni-trier.de/db/conf/nocs
+asap,C,Conference,1,"Application-Specific Systems, Architectures, and Processors",IEEE,http://dblp.uni-trier.de/db/conf/asap
+aspdac,C,Conference,1,Asia and South Pacific Design Automation Conference,ACM/IEEE,http://dblp.uni-trier.de/db/conf/aspdac
+europar,C,Conference,1,European Conference on Parallel and Distributed Computing,Springer,http://dblp.uni-trier.de/db/conf/europar/
+ets,C,Conference,1,European Test Symposium,IEEE,http://dblp.uni-trier.de/db/conf/ets/
+fpl,C,Conference,1,Field Programmable Logic and Applications,IEEE,http://dblp.uni-trier.de/db/conf/fpl/
+fccm,C,Conference,1,Field-Programmable Custom Computing Machines,IEEE,http://dblp.uni-trier.de/db/conf/fccm/
+glvlsi,C,Conference,1,Great Lakes Symposium on VLSI,ACM/IEEE,http://dblp.uni-trier.de/db/conf/glvlsi/
+ats,C,Conference,1,IEEE Asian Test Symposium,IEEE,http://dblp.uni-trier.de/db/conf/ats/
+hpcc,C,Conference,1,IEEE International Conference on High Performance Computing and Communications,IEEE,http://dblp.uni-trier.de/db/conf/hpcc/
+hipc,C,Conference,1,"IEEE International Conference on High Performance Computing, Data and Analytics",IEEE/ ACM,http://dblp.uni-trier.de/db/conf/hipc/index.html
+mascots,C,Conference,1,"IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",IEEE,http://dblp.uni-trier.de/db/conf/mascots/
+ispa,C,Conference,1,IEEE International Symposium on Parallel and Distributed Processing with Applications,IEEE,http://dblp.uni-trier.de/db/conf/ispa/
+ccgrid,C,Conference,1,"IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing",ACM/IEEE,http://dblp.uni-trier.de/db/conf/ccgrid/
+npc,C,Conference,1,IFIP International Conference on Network and Parallel Computing,Springer,http://dblp.uni-trier.de/db/conf/npc/
+ica3pp,C,Conference,1,International Conference on Algorithms and Architectures for Parallel Processing,IEEE,http://dblp.uni-trier.de/db/conf/ica3pp/
+cases,C,Conference,1,"International Conference on Compilers, Architectures, and Synthesis for Embedded Systems",ACM,http://dblp.uni-trier.de/db/conf/cases/index.html
+fpt,C,Conference,1,International Conference on Field-Programmable Technology,IEEE,http://dblp.uni-trier.de/db/conf/fpt/
+icpads,C,Conference,1,International Conference on Parallel and Distributed Systems,IEEE,http://dblp.uni-trier.de/db/conf/icpads/
+iscas,C,Conference,1,International Symposium on Circuits and Systems,IEEE,http://dblp.uni-trier.de/db/conf/iscas/
+islped,C,Conference,1,International Symposium on Low Power Electronics and Design,ACM/IEEE,http://dblp.uni-trier.de/db/conf/islped/
+ispd,C,Conference,1,International Symposium on Physical Design,ACM,http://dblp.uni-trier.de/db/conf/ispd/
+hoti,C,Conference,1,Symposium on High-Performance Interconnects,IEEE,http://dblp.uni-trier.de/db/conf/hoti/
+vts,C,Conference,1,VLSI Test Symposium,IEEE,http://dblp.uni-trier.de/db/conf/vts/
+jsac,A,Journal,2,IEEE Journal of Selected Areas in Communications,IEEE,http://dblp.uni-trier.de/db/journals/jsac/
+tmc,A,Journal,2,IEEE Transactions on Mobile Computing,IEEE,http://dblp.uni-trier.de/db/journals/tmc/
+ton,A,Journal,2,IEEE/ACM Transactions on Networking,IEEE/ACM,http://dblp.uni-trier.de/db/journals/ton/
+toit,B,Journal,2,ACM Transactions on Internet Technology,ACM,http://dblp.uni-trier.de/db/journals/toit/
+tomccap,B,Journal,2,"ACM Transactions on Multimedia Computing, Communications and Applications",ACM,http://dblp.uni-trier.de/db/journals/tomccap/
+tosn,B,Journal,2,ACM Transactions on Sensor Networks,ACM,http://dblp.uni-trier.de/db/journals/tosn/
+cn,B,Journal,2,Computer Networks,Elsevier,http://dblp.uni-trier.de/db/journals/cn/
+tcom,B,Journal,2,IEEE Transactions on Communications,IEEE,http://dblp.uni-trier.de/db/journals/tcom/
+twc,B,Journal,2,IEEE Transactions on Wireless Communications,IEEE,http://dblp.uni-trier.de/db/journals/twc/
+adhoc,C,Journal,2,Ad Hoc Networks,Elsevier,http://dblp.uni-trier.de/db/journals/adhoc/
+cc,C,Journal,2,Computer Communications,Elsevier,http://dblp.uni-trier.de/db/journals/comcom/
+tnsm,C,Journal,2,IEEE Transactions on Network and Service Management,IEEE,http://dblp.uni-trier.de/db/journals/tnsm/
+ietcom,C,Journal,2,IET Communications,IET,http://dblp.uni-trier.de/db/journals/iet-com/
+jnca,C,Journal,2,Journal of Network and Computer Applications,Elsevier,http://dblp.uni-trier.de/db/journals/jnca/
+monet,C,Journal,2,Mobile Networks & Applications,Springer,http://dblp.uni-trier.de/db/journals/monet/
+networks,C,Journal,2,Networks,Wiley,http://dblp.uni-trier.de/db/journals/networks/
+ppna,C,Journal,2,Peer-to-Peer Networking and Applications,Springer,http://dblp.uni-trier.de/db/journals/ppna/
+wcmc,C,Journal,2,Wireless Communications & Mobile Computing,Wiley.,http://dblp.uni-trier.de/db/journals/wicomm/
+winet,C,Journal,2,Wireless Networks,Springer,http://dblp.uni-trier.de/db/journals/winet/
+sigcomm,A,Conference,2,"ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",ACM,http://dblp.uni-trier.de/db/conf/sigcomm/index.html
+mobicom,A,Conference,2,ACM International Conference on Mobile Computing and Networking,ACM,http://dblp.uni-trier.de/db/conf/mobicom/
+infocom,A,Conference,2,IEEE International Conference on Computer Communications,IEEE,http://dblp.uni-trier.de/db/conf/infocom/
+nsdi,A,Conference,2,Symposium on Network System Design and Implementation,USENIX,http://dblp.uni-trier.de/db/conf/nsdi/
+sensys,B,Conference,2,ACM Conference on Embedded Networked Sensor Systems,ACM,http://dblp.uni-trier.de/db/conf/sensys/
+conext,B,Conference,2,ACM International Conference on Emerging Networking Experiments and Technologies,ACM,http://dblp.uni-trier.de/db/conf/conext/
+secon,B,Conference,2,IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks,IEEE,http://dblp.uni-trier.de/db/conf/secon/
+ipsn,B,Conference,2,International Conference on Information Processing in Sensor Networks,IEEE/ACM,http://dblp.uni-trier.de/db/conf/ipsn/
+mobisys,B,Conference,2,"International Conference on Mobile Systems, Applications, and Services",ACM,http://dblp.uni-trier.de/db/conf/mobisys/
+icnp,B,Conference,2,International Conference on Network Protocols,IEEE,http://dblp.uni-trier.de/db/conf/icnp/
+mobihoc,B,Conference,2,International Symposium on Mobile Ad Hoc Networking and Computing,ACM/IEEE,http://dblp.uni-trier.de/db/conf/mobihoc/
+nossdav,B,Conference,2,International Workshop on Network and Operating System Support for Digital Audio and Video,ACM,http://dblp.uni-trier.de/db/conf/nossdav/
+iwqos,B,Conference,2,International Workshop on Quality of Service,IEEE,http://dblp.uni-trier.de/db/conf/iwqos/
+imc,B,Conference,2,Internet Measurement Conference,ACM/USENIX,http://dblp.uni-trier.de/db/conf/imc/
+ancs,C,Conference,2,Architectures for Networking and Communications Systems,ACM/IEEE,http://dblp.uni-trier.de/db/conf/ancs/
+apnoms,C,Conference,2,Asia-Pacific Network Operations and Management Symposium,IFIP/IEEE,http://dblp.uni-trier.de/db/conf/apnoms/
+forte,C,Conference,2,Formal Techniques for Networked and Distributed Systems,Springer,http://dblp.uni-trier.de/db/conf/forte/
+lcn,C,Conference,2,IEEE Conference on Local Computer Networks,IEEE,http://dblp.uni-trier.de/db/conf/lcn/
+globecom,C,Conference,2,IEEE Global Communications Conference,IEEE,http://dblp.uni-trier.de/db/conf/globecom/
+icc,C,Conference,2,IEEE International Conference on Communications,IEEE,http://dblp.uni-trier.de/db/conf/icc/
+icccn,C,Conference,2,IEEE International Conference on Computer Communications and Networks,IEEE,http://dblp.uni-trier.de/db/conf/icccn/
+mass,C,Conference,2,IEEE International Conference on Mobile Ad-hoc and Sensor Systems,IEEE,http://dblp.uni-trier.de/db/conf/mass/index.html
+p2p,C,Conference,2,IEEE International Conference on Peer-to-Peer Computing,IEEE,http://dblp.uni-trier.de/db/conf/p2p/
+ipccc,C,Conference,2,IEEE International Performance Computing and Communications Conference,IEEE,http://dblp.uni-trier.de/db/conf/ipccc/
+wowmom,C,Conference,2,"IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",IEEE,http://dblp.uni-trier.de/db/conf/wowmom/
+iscc,C,Conference,2,IEEE Symposium on Computers and Communications,IEEE,http://dblp.uni-trier.de/db/conf/iscc/
+wcnc,C,Conference,2,IEEE Wireless Communications & Networking Conference,IEEE,http://dblp.uni-trier.de/db/conf/wcnc/
+networking,C,Conference,2,IFIP International Conferences on Networking,IFIP,http://dblp.uni-trier.de/db/conf/networking/index.html
+im,C,Conference,2,IFIP/IEEE International Symposium on Integrated Network Management,IFIP/IEEE,http://dblp.uni-trier.de/db/conf/im/index.html
+msn,C,Conference,2,International Conference on Mobile Ad-hoc and Sensor Networks,IEEE,https://dblp.uni-trier.de/db/conf/msn/
+mswim,C,Conference,2,"International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",ACM,http://dblp.uni-trier.de/db/conf/mswim/
+wasa,C,Conference,2,"International Conference on Wireless Algorithms, Systems, and Applications",Springer,http://dblp.uni-trier.de/db/conf/wasa/
+hotnets,C,Conference,2,The Workshop on Hot Topics in Networks,ACM,http://dblp.uni-trier.de/db/conf/hotnets/
+tdsc,A,Journal,3,IEEE Transactions on Dependable and Secure Computing,IEEE,http://dblp.uni-trier.de/db/journals/tdsc/
+tifs,A,Journal,3,IEEE Transactions on Information Forensics and Security,IEEE,http://dblp.uni-trier.de/db/journals/tifs/
+joc,A,Journal,3,Journal of Cryptology,Springer,http://dblp.uni-trier.de/db/journals/joc/
+tops,B,Journal,3,ACM Transactions on Privacy and Security,ACM,https://tops.acm.org/
+compsec,B,Journal,3,Computers & Security,Elsevier,http://dblp.uni-trier.de/db/journals/compsec/
+dcc,B,Journal,3,"Designs, Codes and Cryptography",Springer,http://dblp.uni-trier.de/db/journals/dcc/
+jcs,B,Journal,3,Journal of Computer Security,IOS Press,http://dblp.uni-trier.de/db/journals/jcs/
+clsr,C,Journal,3,Computer Law and Security Review,Elsevier,http://www.journals.elsevier.com/computer-law-and-security-review/
+ejisec,C,Journal,3,EURASIP Journal on Information Security,Springer,http://dblp.uni-trier.de/db/journals/ejisec/
+ietifs,C,Journal,3,IET Information Security,IET,http://dblp.uni-trier.de/db/journals/iet-ifs/
+imcs,C,Journal,3,Information Management & Computer Security,Emerald,http://dblp.uni-trier.de/db/journals/imcs/
+ijics,C,Journal,3,International Journal of Information and Computer Security,Inderscience,http://dblp.uni-trier.de/db/journals/ijics/
+ijisp,C,Journal,3,International Journal of Information Security and Privacy,Idea Group Inc,http://dblp.uni-trier.de/db/journals/ijisp/
+jisa,C,Journal,3,Journal of Information Security and Application,Elsevier,https://dblp.uni-trier.de/db/journals/istr/
+scn,C,Journal,3,Security and Communication Networks,Wiley,http://dblp.uni-trier.de/db/journals/scn/
+ccs,A,Conference,3,ACM Conference on Computer and Communications Security,ACM,http://dblp.uni-trier.de/db/conf/ccs/
+eurocrypt,A,Conference,3,European Cryptology Conference,Springer,http://dblp.uni-trier.de/db/conf/eurocrypt/
+sp,A,Conference,3,IEEE Symposium on Security and Privacy,IEEE,http://dblp.uni-trier.de/db/conf/sp/
+crypto,A,Conference,3,International Cryptology Conference,Springer,http://dblp.uni-trier.de/db/conf/crypto/
+usenixsecurity,A,Conference,3,Usenix Security Symposium,USENIX Association,http://dblp.uni-trier.de/db/conf/uss/
+acsac,B,Conference,3,Annual Computer Security Applications Conference,IEEE,http://dblp.uni-trier.de/db/conf/acsac/
+asiacrypt,B,Conference,3,Annual International Conference on the Theory and Application of Cryptology and Information Security,Springer,http://dblp.uni-trier.de/db/conf/asiacrypt/
+esorics,B,Conference,3,European Symposium on Research in Computer Security,Springer,http://dblp.uni-trier.de/db/conf/esorics/
+fse,B,Conference,3,Fast Software Encryption,Springer,http://dblp.uni-trier.de/db/conf/fse/
+csfw,B,Conference,3,IEEE Computer Security Foundations Workshop,IEEE,http://dblp.uni-trier.de/db/conf/csfw/
+srds,B,Conference,3,IEEE International Symposium on Reliable Distributed Systems,IEEE,http://dblp.uni-trier.de/db/conf/srds/
+ches,B,Conference,3,International Conference on Cryptographic Hardware and Embedded Systems,Springer,http://dblp.uni-trier.de/db/conf/ches/
+dsn,B,Conference,3,International Conference on Dependable Systems and Networks,IEEE/IFIP,http://dblp.uni-trier.de/db/conf/dsn/
+raid,B,Conference,3,International Symposium on Recent Advances in Intrusion Detection,Springer,http://dblp.uni-trier.de/db/conf/raid/
+pkc,B,Conference,3,International Workshop on Practice and Theory in Public Key Cryptography,Springer,http://dblp.uni-trier.de/db/conf/pkc/
+ndss,B,Conference,3,ISOC Network and Distributed System Security Symposium,ISOC,http://dblp.uni-trier.de/db/conf/ndss/
+tcc,B,Conference,3,Theory of Cryptography Conference,Springer,http://dblp.uni-trier.de/db/conf/tcc/
+wisec,C,Conference,3,ACM Conference on Security and Privacy in Wireless and Mobile Networks,ACM,http://dblp.uni-trier.de/db/conf/wisec/
+sacmat,C,Conference,3,ACM Symposium on Access Control Models and Technologies,ACM,http://dblp.uni-trier.de/db/conf/sacmat/
+drm,C,Conference,3,ACM Workshop on Digital Rights Management,ACM,http://dblp.uni-trier.de/db/conf/drm/
+ihmmsec,C,Conference,3,ACM Workshop on Information Hiding and Multimedia Security,ACM,http://dblp.uni-trier.de/db/conf/ih/
+acns,C,Conference,3,Applied Cryptography and Network Security,Springer,http://dblp.uni-trier.de/db/conf/acns/
+asiacss,C,Conference,3,Asia Conference on Computer and Communications Security,ACM,http://dblp.uni-trier.de/db/conf/ccs/
+acisp,C,Conference,3,Australasia Conference on Information Security and Privacy,Springer,http://dblp.uni-trier.de/db/conf/acisp/
+ctrsa,C,Conference,3,Cryptographer's Track at RSA Conference,Springer,http://dblp.uni-trier.de/db/conf/ctrsa/
+dimva,C,Conference,3,Detection of Intrusions and Malware & Vulnerability Assessment,,http://dblp.uni-trier.de/db/conf/dimva/
+dfrws,C,Conference,3,Digital Forensic Research Workshop,Elsevier,http://dblp.uni-trier.de/db/conf/dfrws/
+fc,C,Conference,3,Financial Cryptography and Data Security,Springer,http://dblp.uni-trier.de/db/conf/fc/
+trustcom,C,Conference,3,"IEEE International Conference on Trust, Security and Privacy in Computing and Communications",IEEE,http://dblp.uni-trier.de/db/conf/trustcom/
+sec,C,Conference,3,IFIP International Information Security Conference,Springer,http://dblp.uni-trier.de/db/conf/sec/
+ifipwg,C,Conference,3,IFIP WG 11.9 International Conference on Digital Forensics,Springer,*http://www.ifip119.org/Conferences/
+isc,C,Conference,3,Information Security Conference,Springer,http://dblp.uni-trier.de/db/conf/isw/
+icdf2c,C,Conference,3,International Conference on Digital Forensics & Cyber Crime,Springer,http://dblp.uni-trier.de/db/conf/icdf2c/
+icics,C,Conference,3,International Conference on Information and Communications Security,Springer,http://dblp.uni-trier.de/db/conf/icics/
+securecomm,C,Conference,3,International Conference on Security and Privacy in Communication Networks,ACM,http://dblp.uni-trier.de/db/conf/securecomm/
+nspw,C,Conference,3,New Security Paradigms Workshop,ACM,http://dblp.uni-trier.de/db/conf/nspw/
+pam,C,Conference,3,Passive and Active Measurement Conference,Springer,http://dblp.uni-trier.de/db/conf/pam/
+pet,C,Conference,3,Privacy Enhancing Technologies Symposium,Springer,http://dblp.uni-trier.de/db/conf/pet/
+sac,C,Conference,3,Selected Areas in Cryptography,Springer,http://dblp.uni-trier.de/db/conf/sacrypt/
+soups,C,Conference,3,Symposium On Usable Privacy and Security,USENIX,http://dblp.uni-trier.de/db/conf/soups/
+hotsec,C,Conference,3,USENIX Workshop on Hot Topics in Security,USENIX,http://www.usenix.org/events/
+toplas,A,Journal,4,ACM Transactions on Programming Languages & Systems,ACM,http://dblp.uni-trier.de/db/journals/toplas/
+tosem,A,Journal,4,ACM Transactions on Software Engineering and Methodology,ACM,http://dblp.uni-trier.de/db/journals/tosem/
+tse,A,Journal,4,IEEE Transactions on Software Engineering,IEEE,http://dblp.uni-trier.de/db/journals/tse/
+ase,B,Journal,4,Automated Software Engineering,Springer,http://dblp.uni-trier.de/db/journals/ase/
+ese,B,Journal,4,Empirical Software Engineering,Springer,http://dblp.uni-trier.de/db/journals/ese/
+tsc,B,Journal,4,IEEE Transactions on Service Computing,IEEE,http://dblp.uni-trier.de/db/journals/tsc/
+iets,B,Journal,4,IET Software,IET,https://dblp.uni-trier.de/db/journals/iet-sen/
+istr,B,Journal,4,Information and Software Technology,Elsevier,http://dblp.uni-trier.de/db/journals/infsof/index.html
+jfp,B,Journal,4,Journal of Functional Programming,Cambridge University Press,http://dblp.uni-trier.de/db/journals/jfp/
+smr,B,Journal,4,Journal of Software: Evolution and Process,Wiley,http://dblp.uni-trier.de/db/journals/smr/
+jss,B,Journal,4,Journal of Systems and Software,Elsevier,http://dblp.uni-trier.de/db/journals/jss/
+re,B,Journal,4,Requirements Engineering,Springer,http://dblp.uni-trier.de/db/journals/re/
+scp,B,Journal,4,Science of Computer Programming,Elsevier,http://dblp.uni-trier.de/db/journals/scp/
+sosym,B,Journal,4,Software and System Modeling,Springer,http://dblp.uni-trier.de/db/journals/sosym/
+stvr,B,Journal,4,"Software Testing, Verification and Reliability",Wiley,http://dblp.uni-trier.de/db/journals/stvr/index.html
+spe,B,Journal,4,Software: Practice and Experience,Wiley,http://dblp.uni-trier.de/db/journals/spe/
+cl,C,Journal,4,"Computer Languages, Systems and Structures",Elsevier,http://dblp.uni-trier.de/db/journals/cl/index.html
+ijseke,C,Journal,4,International Journal on Software Engineering and Knowledge Engineering,World Scientific,http://dblp.uni-trier.de/db/journals/ijseke/index.html
+sttt,C,Journal,4,International Journal on Software Tools for Technology Transfer,Springer,http://dblp.uni-trier.de/db/journals/sttt/
+jlap,C,Journal,4,Journal of Logic and Algebraic Programming,Elsevier,http://dblp.uni-trier.de/db/journals/jlp/jlap.html
+jwe,C,Journal,4,Journal of Web Engineering,Rinton Press,http://dblp.uni-trier.de/db/journals/jwe/
+soca,C,Journal,4,Service Oriented Computing and Applications,Springer,http://dblp.uni-trier.de/db/journals/soca/
+sqj,C,Journal,4,Software Quality Journal,Springer,http://dblp.uni-trier.de/db/journals/sqj/
+tplp,C,Journal,4,Theory and Practice of Logic Programming,Cambridge University Press,http://dblp.uni-trier.de/db/journals/tplp/
+pldi,A,Conference,4,ACM SIGPLAN Conference on Programming Language Design & Implementation,ACM,http://dblp.uni-trier.de/db/conf/pldi/
+popl,A,Conference,4,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,ACM,http://dblp.uni-trier.de/db/conf/popl/
+fse,A,Conference,4,ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference,ACM,http://dblp.uni-trier.de/db/conf/sigsoft/
+sosp,A,Conference,4,ACM Symposium on Operating Systems Principles,ACM,http://dblp.uni-trier.de/db/conf/sosp/
+oopsla,A,Conference,4,"Conference on Object-Oriented Programming Systems, Languages, and Applications",ACM,http://dblp.uni-trier.de/db/conf/oopsla/
+ase,A,Conference,4,International Conference on Automated Software Engineering,IEEE/ACM,http://dblp.uni-trier.de/db/conf/kbse/
+icse,A,Conference,4,International Conference on Software Engineering,ACM/IEEE,http://dblp.uni-trier.de/db/conf/icse/
+issta,A,Conference,4,International Symposium on Software Testing and Analysis,ACM,http://dblp.uni-trier.de/db/conf/issta/
+osdi,A,Conference,4,USENIX Symposium on Operating Systems Design and Implementations,USENIX,http://dblp.uni-trier.de/db/conf/osdi/
+ecoop,B,Conference,4,European Conference on Object-Oriented Programming,AITO,http://dblp.uni-trier.de/db/conf/ecoop/
+etaps,B,Conference,4,European Joint Conferences on Theory and Practice of Software,Springer,http://dblp.uni-trier.de/db/conf/etaps/
+icpc,B,Conference,4,IEEE International Conference on Program Comprehension,IEEE,http://dblp.uni-trier.de/db/conf/iwpc/
+re,B,Conference,4,IEEE International Requirements Engineering Conference,IEEE,http://dblp.uni-trier.de/db/conf/re/
+caise,B,Conference,4,International Conference on Advanced Information Systems Engineering,Springer,http://dblp.uni-trier.de/db/conf/caise/
+icfp,B,Conference,4,International Conference on Function Programming,ACM,http://dblp.uni-trier.de/db/conf/icfp/
+lctes,B,Conference,4,"International Conference on Languages, Compilers and Tools for Embedded Systems",ACM,http://dblp.uni-trier.de/db/conf/lctrts/
+models,B,Conference,4,International Conference on Model Driven Engineering Languages and Systems ,"ACM, IEEE",http://dblp.uni-trier.de/db/conf/models/
+cp,B,Conference,4,International Conference on Principles and Practice of Constraint Programming,Springer,http://dblp.uni-trier.de/db/conf/cp/
+icsoc,B,Conference,4,International Conference on Service Oriented Computing,Springer,http://dblp.uni-trier.de/db/conf/icsoc/
+saner,B,Conference,4,"International Conference on Software Analysis, Evolution, and Reengineering",IEEE,http://dblp.uni-trier.de/db/conf/wcre/
+icsme,B,Conference,4,International Conference on Software Maintenance and Evolution,IEEE,http://dblp.uni-trier.de/db/conf/icsm/
+vmcai,B,Conference,4,"International Conference on Verification, Model Checking, and Abstract Interpretation",Springer,http://dblp.uni-trier.de/db/conf/vmcai/
+icws,B,Conference,4,International Conference on Web Services  （Research Track）,IEEE,http://dblp.uni-trier.de/db/conf/icws/
+middleware,B,Conference,4,International Middleware Conference,ACM/IFIP/ USENIX,http://dblp.uni-trier.de/db/conf/middleware/
+sas,B,Conference,4,International Static Analysis Symposium,Springer,http://dblp.uni-trier.de/db/conf/sas/
+esem,B,Conference,4,International Symposium on Empirical Software Engineering and Measurement,ACM/IEEE,http://dblp.uni-trier.de/db/conf/esem/
+fm,B,Conference,4,International Symposium on Formal Methods,FME,http://dblp.uni-trier.de/db/conf/fm/
+issre,B,Conference,4,International Symposium on Software Reliability Engineering,IEEE,http://dblp.uni-trier.de/db/conf/issre/
+hotos,B,Conference,4,USENIX Workshop on Hot Topics in Operating Systems,USENIX,http://dblp.uni-trier.de/db/conf/hotos/
+pepm,C,Conference,4,ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation,ACM,http://dblp.uni-trier.de/db/conf/pepm/
+paste,C,Conference,4,ACMSIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering,ACM,http://dblp.uni-trier.de/db/conf/paste/
+aplas,C,Conference,4,Asian Symposium on Programming Languages and Systems,Springer,http://dblp.uni-trier.de/db/conf/aplas/
+apsec,C,Conference,4,Asia-Pacific Software Engineering Conference,IEEE,http://dblp.uni-trier.de/db/conf/apsec/
+ease,C,Conference,4,Evaluation and Assessment in Software Engineering,ACM,http://dblp.uni-trier.de/db/conf/ease/
+iceccs,C,Conference,4,IEEE International Conference on Engineering of Complex Computer Systems,IEEE,http://dblp.uni-trier.de/db/conf/iceccs/
+icst,C,Conference,4,"IEEE International Conference on Software Testing, Verification and Validation",IEEE,http://dblp.uni-trier.de/db/conf/icst/
+ispass,C,Conference,4,IEEE International Symposium on Performance Analysis of Systems and Software,IEEE,http://dblp.uni-trier.de/db/conf/ispass/
+scam,C,Conference,4,IEEE International Working Conference on Source Code Analysis and Manipulation,IEEE,http://dblp.uni-trier.de/db/conf/scam/
+compsac,C,Conference,4,International Computer Software and Applications Conference,IEEE,http://dblp.uni-trier.de/db/conf/compsac/
+icfem,C,Conference,4,International Conference on Formal Engineering Methods,Springer,http://dblp.uni-trier.de/db/conf/icfem/
+tools,C,Conference,4,"International Conference on Objects, Models, Components, Patterns",Springer,http://dblp.uni-trier.de/db/conf/tools/index.html
+scc,C,Conference,4,International Conference on Service Computing,IEEE,http://dblp.uni-trier.de/db/conf/IEEEscc/
+icssp,C,Conference,4,International Conference on Software and System Process,ACM,http://dblp.uni-trier.de/db/conf/ispw/
+seke,C,Conference,4,International Conference on Software Engineering and Knowledge Engineering,KSI,http://dblp.uni-trier.de/db/conf/seke/
+qrs,C,Conference,4,"International Conference on Software Quality, Reliability and Security",IEEE,https://dblp.uni-trier.de/db/conf/qrs/
+icsr,C,Conference,4,International Conference on Software Reuse,Springer,http://dblp.uni-trier.de/db/conf/icsr/
+icwe,C,Conference,4,International Conference on Web Engineering,Springer,http://dblp.uni-trier.de/db/conf/icwe/
+spin,C,Conference,4,International SPIN Workshop on Model Checking Software,Springer,http://dblp.uni-trier.de/db/conf/spin/index.html
+atva,C,Conference,4,International Symposium on Automated Technology for Verification and Analysis,Springer,http://dblp.uni-trier.de/db/conf/atva/
+lopstr,C,Conference,4,International Symposium on Logic-based Program Synthesis and Transformation,Springer,http://dblp.uni-trier.de/db/conf/lopstr/
+tase,C,Conference,4,International Symposium on Theoretical Aspects of Software Engineering,IEEE,http://dblp.uni-trier.de/db/conf/tase/
+msr,C,Conference,4,Mining Software Repositories,IEEE/ACM,http://dblp.uni-trier.de/db/conf/msr/
+refsq,C,Conference,4,Requirements Engineering: Foundation for Software Quality,Springer,http://dblp.uni-trier.de/db/conf/refsq/
+wicsa,C,Conference,4,Working IEEE/IFIP Conference on Software Architecture,IEEE,http://dblp.uni-trier.de/db/conf/wicsa/
+tods,A ,Journal,4,ACM Transactions on Database Systems,ACM,http://dblp.uni-trier.de/db/journals/tods/
+tois,A ,Journal,4,ACM Transactions on Information Systems,ACM,http://dblp.uni-trier.de/db/journals/tois/
+tkde,A ,Journal,4,IEEE Transactions on Knowledge and Data Engineering,IEEE,http://dblp.uni-trier.de/db/journals/tkde/
+vldbj,A ,Journal,4,The VLDB Journal,Springer,http://dblp.uni-trier.de/db/journals/vldb/
+tkdd,B,Journal,4,ACM Transactions on Knowledge Discovery from Data,ACM,http://dblp.uni-trier.de/db/journals/tkdd/
+tweb,B,Journal,4,ACM Transactions on the Web,ACM,http://dblp.uni-trier.de/db/journals/tweb/
+aei,B,Journal,4,Advanced Engineering Informatics,Elsevier,http://dblp.uni-trier.de/db/journals/aei/
+dke,B,Journal,4,Data and Knowledge Engineering,Elsevier,http://dblp.uni-trier.de/db/journals/dke/
+dmkd,B,Journal,4,Data Mining and Knowledge Discovery,Springer,http://dblp.uni-trier.de/db/journals/datamine/
+ejis,B,Journal,4,European Journal of Information Systems,Springer,http://dblp.uni-trier.de/db/journals/ejis/
+geoinformatica,B,Journal,4,GeoInformatica,Springer,http://dblp.uni-trier.de/db/journals/geoinformatica/
+ipm,B,Journal,4,Information Processing and Management,Elsevier,http://dblp.uni-trier.de/db/journals/ipm/
+isci,B,Journal,4,Information Sciences,Elsevier,http://dblp.uni-trier.de/db/journals/isci/
+is,B,Journal,5,Information Systems,Elsevier,http://dblp.uni-trier.de/db/journals/is/
+jasist,B,Journal,5,Journal of the American Society for Information Science and Technology,American Society for Information Science and Technology,http://dblp.uni-trier.de/db/journals/jasis/
+jws,B,Journal,5,Journal of Web Semantics,Elsevier,http://dblp.uni-trier.de/db/journals/ws/
+kais,B,Journal,5,Knowledge and Information Systems,Springer,http://dblp.uni-trier.de/db/journals/kais/
+dpd,C,Journal,5,Distributed and Parallel Databases,Springer,http://dblp.uni-trier.de/db/journals/dpd/
+im,C,Journal,5,Information and Management,Elsevier,http://dblp.uni-trier.de/db/journals/iam/
+ipl,C,Journal,5,Information Processing Letters,Elsevier,http://dblp.uni-trier.de/db/journals/ipl/
+ir,C,Journal,5,Information Retrieval Journal,Springer,http://dblp.uni-trier.de/db/journals/ir/
+ijcis,C,Journal,5,International Journal of Cooperative Information Systems,World Scientific,http://dblp.uni-trier.de/db/journals/ijcis/
+ijgis,C,Journal,5,International Journal of Geographical Information Science,Taylor & Francis,http://dblp.uni-trier.de/db/journals/gis/
+ijis,C,Journal,5,International Journal of Intelligent Systems,Wiley,http://dblp.uni-trier.de/db/journals/ijis/
+ijkm,C,Journal,5,International Journal of Knowledge Management,IGI,http://dblp.uni-trier.de/db/journals/ijkm/
+ijswis,C,Journal,5,International Journal on Semantic Web and Information Systems,IGI,http://dblp.uni-trier.de/db/journals/ijswis/
+jcis,C,Journal,5,Journal of Computer Information Systems,IACIS,http://dblp.uni-trier.de/db/journals/jcis/
+jdm,C,Journal,5,Journal of Database Management,IGI-Global,http://dblp.uni-trier.de/db/journals/jdm/
+jgitm,C,Journal,5,Journal of Global Information Technology Management,Ivy League Publishing,http://www.tandfonline.com/loi/ugit20#.Vnv35pN97rI
+jiis,C,Journal,5,Journal of Intelligent Information Systems,Springer,http://dblp.uni-trier.de/db/journals/jiis/
+jsis,C,Journal,5,Journal of Strategic Information Systems,Elsevier,http://dblp.uni-trier.de/db/journals/jsis/
+sigmod,A,Conference,5,ACM Conference on Management of Data,ACM,http://dblp.uni-trier.de/db/conf/sigmod/
+sigkdd,A,Conference,5,ACM Knowledge Discovery and Data Mining,ACM,http://dblp.uni-trier.de/db/conf/kdd/
+icde,A,Conference,5,IEEE International Conference on Data Engineering,IEEE,http://dblp.uni-trier.de/db/conf/icde/
+sigir,A,Conference,5,International Conference on Research on Development in Information Retrieval,ACM,http://dblp.uni-trier.de/db/conf/sigir/
+vldb,A,Conference,5,International Conference on Very Large Data Bases,Morgan Kaufmann/ACM,http://dblp.uni-trier.de/db/conf/vldb/
+cikm,B,Conference,5,ACM International Conference on Information and Knowledge Management,ACM,http://dblp.uni-trier.de/db/conf/cikm/
+wsdm,B,Conference,5,ACM International Conference on Web Search and Data Mining,ACM,http://dblp.uni-trier.de/db/conf/wsdm/
+pods,B,Conference,5,ACM Symposium on Principles of Database Systems,ACM,http://dblp.uni-trier.de/db/conf/pods/
+dasfaa,B,Conference,5,Database Systems for Advanced Applications,Springer,http://dblp.uni-trier.de/db/conf/dasfaa/
+ecmlpkdd,B,Conference,5,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,Springer,http://dblp.uni-trier.de/db/conf/ecml/ http://dblp.uni-trier.de/db/conf/pkdd/
+iswc,B,Conference,5,IEEE International Semantic Web Conference,IEEE,http://dblp.uni-trier.de/db/conf/semweb/
+icdm,B,Conference,5,International Conference on Data Mining,IEEE,http://dblp.uni-trier.de/db/conf/icdm/
+icdt,B,Conference,5,International Conference on Database Theory,Springer,http://dblp.uni-trier.de/db/conf/icdt/
+edbt,B,Conference,5,International Conference on Extending DB Technology,Springer,http://dblp.uni-trier.de/db/conf/edbt/
+cidr,B,Conference,5,International Conference on Innovative Data Systems Research,Online Proceeding,http://dblp.uni-trier.de/db/conf/cidr/
+sdm,B,Conference,5,SIAM International Conference on Data Mining,SIAM,http://dblp.uni-trier.de/db/conf/sdm/
+apweb,C,Conference,5,Asia Pacific Web Conference,Springer,http://dblp.uni-trier.de/db/conf/apweb/
+dexa,C,Conference,5,Database and Expert System Applications,Springer,http://dblp.uni-trier.de/db/conf/dexa/
+ecir,C,Conference,5,European Conference on IR Research,Springer,http://dblp.uni-trier.de/db/conf/ecir/
+eswc,C,Conference,5,Extended Semantic Web Conference,Springer,http://dblp.uni-trier.de/db/conf/esws/
+webdb,C,Conference,5,International ACM Workshop on Web and Databases,ACM,http://dblp.uni-trier.de/db/conf/webdb/
+er,C,Conference,5,International Conference on Conceptual Modeling,Springer,http://dblp.uni-trier.de/db/conf/er/
+mdm,C,Conference,5,International Conference on Mobile Data Management,IEEE,http://dblp.uni-trier.de/db/conf/mdm/
+ssdbm,C,Conference,5,International Conference on Scientific and Statistical DB Management,IEEE,http://dblp.uni-trier.de/db/conf/ssdbm/
+waim,C,Conference,5,International Conference on Web Age Information Management,Springer,http://dblp.uni-trier.de/db/conf/waim/
+sstd,C,Conference,5,International Symposium on Spatial and Temporal Databases,Springer,http://dblp.uni-trier.de/db/conf/ssd/
+pakdd,C,Conference,5,Pacific-Asia Conference on Knowledge Discovery and Data Mining,Springer,http://dblp.uni-trier.de/db/conf/pakdd/
+wise,C,Conference,5,Web Information Systems Engineering,Springer,http://dblp.uni-trier.de/db/conf/wise/
+tit,A,Journal,6,IEEE Transactions on Information Theory,IEEE,http://dblp.uni-trier.de/db/journals/tit/
+iandc,A,Journal,6,Information and Computation,Elsevier,http://dblp.uni-trier.de/db/journals/iandc/
+sicomp,A,Journal,6,SIAM Journal on Computing,SIAM,http://dblp.uni-trier.de/db/journals/siamcomp/
+talg,B,Journal,6,ACM Transactions on Algorithms,ACM,http://dblp.uni-trier.de/db/journals/talg/
+tocl,B,Journal,6,ACM Transactions on Computational Logic,ACM,http://dblp.uni-trier.de/db/journals/tocl/
+toms,B,Journal,6,ACM Transactions on Mathematical Software,ACM,http://dblp.uni-trier.de/db/journals/toms/
+algorithmica,B,Journal,6,Algorithmica,Springer,http://dblp.uni-trier.de/db/journals/algorithmica/
+cc,B,Journal,6,Computational Complexity,Springer,http://dblp.uni-trier.de/db/journals/cc/
+fac,B,Journal,6,Formal Aspects of Computing,Springer,http://dblp.uni-trier.de/db/journals/fac/
+fmsd,B,Journal,6,Formal Methods in System Design,Springer,http://dblp.uni-trier.de/db/journals/fmsd/
+informs,B,Journal,6,INFORMS Journal on Computing,INFORMS,http://dblp.uni-trier.de/db/journals/informs/
+jcss,B,Journal,6,Journal of Computer and System Sciences,Elsevier,http://dblp.uni-trier.de/db/journals/jcss/
+jgo,B,Journal,6,Journal of Global Optimization,Springer,http://dblp.uni-trier.de/db/journals/jgo/
+jsc,B,Journal,6,Journal of Symbolic Computation,Elsevier,http://dblp.uni-trier.de/db/journals/jsc/
+mscs,B,Journal,6,Mathematical Structures in Computer Science,Cambridge University Press,http://dblp.uni-trier.de/db/journals/mscs/
+tcs,B,Journal,6,Theoretical Computer Science,Elsevier,http://dblp.uni-trier.de/db/journals/tcs/
+acta,C,Journal,6,Acta Informatica,Springer,http://dblp.uni-trier.de/db/journals/acta/
+apal,C,Journal,6,Annals of Pure and Applied Logic,Elsevier,http://dblp.uni-trier.de/db/journals/apal/
+dam,C,Journal,6,Discrete Applied Mathematics,Elsevier,http://dblp.uni-trier.de/db/journals/dam/
+fuin,C,Journal,6,Fundamenta Informaticae,IOS Press,http://dblp.uni-trier.de/db/journals/fuin/
+lisp,C,Journal,6,Higher-Order and Symbolic Computation,Springer,http://dblp.uni-trier.de/db/journals/lisp/
+ipl,C,Journal,6,Information Processing Letters,Elsevier,http://dblp.uni-trier.de/db/journals/ipl/
+jcomplexity,C,Journal,6,Journal of Complexity,Elsevier,http://dblp.uni-trier.de/db/journals/jc/
+logcom,C,Journal,6,Journal of Logic and Computation,Oxford University Press,http://dblp.uni-trier.de/db/journals/logcom/
+jsl,C,Journal,6,Journal of Symbolic Logic,Association for Symbolic Logic,http://dblp.uni-trier.de/db/journals/jsyml/
+lmcs,C,Journal,6,Logical Methods in Computer Science,LMCS,http://dblp.uni-trier.de/db/journals/lmcs/
+sidma,C,Journal,6,SIAM Journal on Discrete Mathematics,SIAM,http://dblp.uni-trier.de/db/journals/siamdm/
+mst,C,Journal,6,Theory of Computing Systems,Springer,http://dblp.uni-trier.de/db/journals/mst/
+stoc,A,Conference,6,ACM Symposium on the Theory of Computing,ACM,http://dblp.uni-trier.de/db/conf/stoc/
+soda,A,Conference,6,ACM-SIAM Symposium on Discrete Algorithms,SIAM,http://dblp.uni-trier.de/db/conf/soda/
+cav,A,Conference,6,Computer Aided Verification,Springer,http://dblp.uni-trier.de/db/conf/cav/
+focs,A,Conference,6,IEEE Annual Symposium on Foundations of Computer Science,IEEE,http://dblp.uni-trier.de/db/conf/focs/
+lics,A,Conference,6,IEEE Symposium on Logic in Computer Science,IEEE,http://dblp.uni-trier.de/db/conf/lics/
+socg,B,Conference,6,ACM Symposium on Computational Geometry,ACM,http://dblp.uni-trier.de/db/conf/compgeom/
+esa,B,Conference,6,European Symposium on Algorithms,Springer,http://dblp.uni-trier.de/db/conf/esa/
+ccc,B,Conference,6,IEEE Conference on Computational Complexity,IEEE,http://dblp.uni-trier.de/db/conf/coco/
+icalp,B,Conference,6,"International Colloquium on Automata, Languages and Programming",Springer,http://dblp.uni-trier.de/db/conf/icalp/
+cade,B,Conference,6,International Conference on Automated Deduction/International Joint Conference on Automated Reasoning,Springer,http://dblp.uni-trier.de/db/conf/cade/
+concur,B,Conference,6,International Conference on Concurrency Theory,Springer,http://dblp.uni-trier.de/db/conf/concur/
+hscc,B,Conference,6,International Conference on Hybrid Systems: Computation and Control,Springer and ACM,http://dblp.uni-trier.de/db/conf/hybrid/
+sat,B,Conference,6,Theory and Applications of Satisfiability Testing,Springer,http://dblp.uni-trier.de/db/conf/sat/
+csl,C,Conference,6,Computer Science Logic,Springer,http://dblp.uni-trier.de/db/conf/csl/
+fmcad,C,Conference,6,Formal Methods in Computer-Aided Design,ACM,http://dblp.uni-trier.de/db/conf/fmcad/
+fsttcs,C,Conference,6,Foundations of Software Technology and Theoretical Computer Science,Indian Association for Research in Computing Science,http://dblp.uni-trier.de/db/conf/fsttcs/
+dsaa,C,Conference,6,IEEE International Conference on Data Science and Advanced Analytics,IEEE,https://dblp.uni-trier.de/db/conf/dsaa/
+ictac,C,Conference,6,International Colloquium on Theoretical of Computing,Springer,http://dblp.uni-trier.de/db/conf/ictac/
+ipco,C,Conference,6,International Conference on Integer Programming and Combinatorial Optimization,Springer,http://dblp.uni-trier.de/db/conf/ipco/
+rta,C,Conference,6,International Conference on Rewriting Techniques and Applications,Springer,http://dblp.uni-trier.de/db/conf/rta/
+isaac,C,Conference,6,International Symposium on Algorithms and Computation,Springer,http://dblp.uni-trier.de/db/conf/isaac/
+mfcs,C,Conference,6,Mathematical Foundations of Computer Science,Springer,http://dblp.uni-trier.de/db/conf/mfcs/
+stacs,C,Conference,6,Symposium on Theoretical Aspects of Computer Science,Springer,http://dblp.uni-trier.de/db/conf/stacs/
+tog,A,Journal,7,ACM Transactions on Graphics,ACM,http://dblp.uni-trier.de/db/journals/tog/
+tip,A,Journal,7,IEEE Transactions on Image Processing,IEEE,http://dblp.uni-trier.de/db/journals/tip/
+tvcg,A,Journal,7,IEEE Transactions on Visualization and Computer Graphics,IEEE,http://dblp.uni-trier.de/db/journals/tvcg/
+tomccap,B,Journal,7,"ACM Transactions on Multimedia Computing, Communications and Application",ACM,http://dblp.uni-trier.de/db/journals/tomccap/
+cagd,B,Journal,7,Computer Aided Geometric Design,Elsevier,http://dblp.uni-trier.de/db/journals/cagd/
+cgf,B,Journal,7,Computer Graphics Forum,Wiley,http://dblp.uni-trier.de/db/journals/cgf/
+cad,B,Journal,7,Computer-Aided Design,Elsevier,http://dblp.uni-trier.de/db/journals/cad/
+gm,B,Journal,7,Graphical Models,Elsevier,http://dblp.uni-trier.de/db/journals/cvgip/
+tcsvt,B,Journal,7,IEEE Transactions on Circuits and Systems for Video Technology,IEEE,http://dblp.uni-trier.de/db/journals/tcsv/
+tmm,B,Journal,7,IEEE Transactions on Multimedia,IEEE,http://dblp.uni-trier.de/db/journals/tmm/
+jasa,B,Journal,7,Journal of The Acoustical Society of America,AIP,http://scitation.aip.org/content/asa/journal/jasa
+siims,B,Journal,7,SIAM Journal on Imaging Sciences,SIAM,http://dblp.uni-trier.de/db/journals/siamis/
+speechcom,B,Journal,7,Speech Communication,Elsevier,http://dblp.uni-trier.de/db/journals/speech/
+cgta,C,Journal,7,Computational Geometry: Theory and Applications,Elsevier,http://dblp.uni-trier.de/db/journals/comgeo/
+cavw,C,Journal,7,Computer Animation and Virtual Worlds,Wiley,http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1546-427X
+cg,C,Journal,7,Computers & Graphics,Elsevier,http://dblp.uni-trier.de/db/journals/cg/
+dcg,C,Journal,7,Discrete & Computational Geometry,Springer,http://dblp.uni-trier.de/db/journals/dcg/
+spl,C,Journal,7,IEEE Signal Processing Letters,IEEE,http://dblp.uni-trier.de/db/journals/spl/
+ietipr,C,Journal,7,IET Image Processing,IET,http://dblp.uni-trier.de/db/journals/iet-ipr/
+jvcir,C,Journal,7,Journal of Visual Communication and Image Representation,Elsevier,http://dblp.uni-trier.de/db/journals/jvcir/
+ms,C,Journal,7,Multimedia Systems,Springer,http://dblp.uni-trier.de/db/journals/mms/
+mta,C,Journal,7,Multimedia Tools and Applications,Springer,http://dblp.uni-trier.de/db/journals/mta/
+sigpro,C,Journal,7,Signal Processing,Elsevier,http://dblp.uni-trier.de/db/journals/sigpro/
+spic,C,Journal,7,Signal Processing: Image Communication,Elsevier,http://dblp.uni-trier.de/db/journals/spic/
+tvc,C,Journal,7,The Visual Computer,Springer,http://dblp.uni-trier.de/db/journals/vc/
+acmmm,A,Conference,7,ACM International Conference on Multimedia,ACM,http://dblp.uni-trier.de/db/conf/mm/
+siggraph,A,Conference,7,ACM SIGGRAPH Annual Conference,ACM,http://dblp.uni-trier.de/db/conf/siggraph/index.html
+vr,A,Conference,7,IEEE Virtual Reality,IEEE,http://dblp.uni-trier.de/db/conf/vr/
+ieeevis,A,Conference,7,IEEE Visualization Conference,IEEE,http://dblp.uni-trier.de/db/conf/visualization/index.html
+icmr,B,Conference,7,ACM SIGMM International Conference on Multimedia Retrieval,ACM,http://dblp.uni-trier.de/db/conf/mir/
+si3d,B,Conference,7,ACM Symposium on Interactive 3D Graphics,ACM,http://dblp.uni-trier.de/db/conf/si3d/
+sca,B,Conference,7,ACM/Eurographics Symposium on Computer Animation,ACM,http://dblp.uni-trier.de/db/conf/sca/index.html
+dcc,B,Conference,7,Data Compression Conference,IEEE,http://dblp.uni-trier.de/db/conf/dcc/
+eg,B,Conference,7,Eurographics,Wiley/ Blackwell,http://dblp.uni-trier.de/db/conf/eurographics/
+eurovis,B,Conference,7,Eurographics Conference on Visualization,ACM,http://dblp.uni-trier.de/db/conf/vissym/
+sgp,B,Conference,7,Eurographics Symposium on Geometry Processing,Wiley/Blackwell,http://dblp.uni-trier.de/db/conf/sgp/
+egsr,B,Conference,7,Eurographics Symposium on Rendering,Wiley/Blackwell,http://dblp.uni-trier.de/db/conf/rt/
+icassp,B,Conference,7,"IEEE International Conference on Acoustics, Speech and SP",IEEE,http://dblp.uni-trier.de/db/conf/icassp/
+icme,B,Conference,7,IEEE International Conference on Multimedia & Expo,IEEE,http://dblp.uni-trier.de/db/conf/icmcs/
+ismar,B,Conference,7,International Symposium on Mixed and Augmented Reality,IEEE/ACM,http://dblp.uni-trier.de/db/conf/ismar/
+pg,B,Conference,7,Pacific Graphics: The Pacific Conference on Computer Graphics and Applications,Wiley/Blackwell,http://dblp.uni-trier.de/db/conf/pg/index.html
+spm,B,Conference,7,Symposium on Solid and Physical Modeling,SMA/Elsevier,http://dblp.uni-trier.de/db/conf/sma/
+vrst,C,Conference,7,ACM Symposium on Virtual Reality Software and Technology,ACM,http://dblp2.uni-trier.de/db/conf/vrst/
+casa,C,Conference,7,Computer Animation and Social Agents,Wiley,http://dblp.uni-trier.de/db/conf/ca/
+cgi,C,Conference,7,Computer Graphics International,Springer,http://dblp.uni-trier.de/db/conf/cgi/
+interspeech,C,Conference,7,Conference of the International Speech Communication Association, ,http://dblp.uni-trier.de/db/conf/interspeech/index.html
+gmp,C,Conference,7,Geometric Modeling and Processing,Elsevier,http://dblp.uni-trier.de/db/conf/gmp/
+pacificvis,C,Conference,7,IEEE Pacific Visualization Symposium,IEEE,http://dblp.uni-trier.de/db/conf/apvis/
+3dv,C,Conference,7,International Conference on 3D Vision,IEEE,https://dblp.uni-trier.de/db/conf/3dim/
+cadgraphics,C,Conference,7,International Conference on Computer-Aided Design and Computer Graphics,IEEE,https://dblp.uni-trier.de/db/conf/cadgraphics/
+icip,C,Conference,7,International Conference on Image Processing,IEEE,http://dblp.uni-trier.de/db/conf/icip/
+mmm,C,Conference,7,International Conference on Multimedia Modeling,Springer,http://dblp.uni-trier.de/db/conf/mmm/index.html
+pcm,C,Conference,7,Pacific-Rim Conference on Multimedia,Springer,http://dblp.uni-trier.de/db/conf/pcm/
+smi,C,Conference,7,Shape Modeling International,IEEE,http://dblp.uni-trier.de/db/conf/smi/
+ai,A,Journal,8,Artificial Intelligence,Elsevier,http://dblp.uni-trier.de/db/journals/ai/
+tpami,A,Journal,8,IEEE Trans on Pattern Analysis and Machine Intelligence,IEEE,http://dblp.uni-trier.de/db/journals/pami/
+ijcv,A,Journal,8,International Journal of Computer Vision,Springer,http://dblp.uni-trier.de/db/journals/ijcv/
+jmlr,A,Journal,8,Journal of Machine Learning Research,MIT Press,http://dblp.uni-trier.de/db/journals/jmlr/
+tap,B,Journal,8,ACM Transactions on Applied Perception,ACM,http://dblp.uni-trier.de/db/journals/tap/
+tslp,B,Journal,8,ACM Transactions on Speech and Language Processing,ACM,http://dblp.uni-trier.de/db/journals/tslp/
+aamas,B,Journal,8,Autonomous Agents and Multi-Agent Systems,Springer,http://dblp.uni-trier.de/db/journals/aamas/
+coling,B,Journal,8,Computational Linguistics,MIT Press,http://dblp.uni-trier.de/db/journals/coling/
+cviu,B,Journal,8,Computer Vision and Image Understanding,Elsevier,http://dblp.uni-trier.de/db/journals/cviu/
+dke,B,Journal,8,Data and Knowledge Engineering,Elsevier,http://dblp.uni-trier.de/db/journals/dke/index.html
+ec,B,Journal,8,Evolutionary Computation,MIT Press,http://dblp.uni-trier.de/db/journals/ec/
+tac,B,Journal,8,IEEE Transactions on Affective Computing,IEEE,http://dblp.uni-trier.de/db/journals/taffco/
+taslp,B,Journal,8,"IEEE Transactions on Audio, Speech, and Language Processing",IEEE,http://dblp.uni-trier.de/db/journals/taslp/
+tcyb,B,Journal,8,IEEE Transactions on Cybernetics,IEEE,http://dblp.uni-trier.de/db/journals/tcyb/
+tec,B,Journal,8,IEEE Transactions on Evolutionary Computation,IEEE,http://dblp.uni-trier.de/db/journals/tec/
+tfs,B,Journal,8,IEEE Transactions on Fuzzy Systems,IEEE,http://dblp.uni-trier.de/db/journals/tfs/
+tnnls,B,Journal,8,IEEE Transactions on Neural Networks and learning systems,IEEE,http://dblp.uni-trier.de/db/journals/tnn/
+ijar,B,Journal,8,International Journal of Approximate Reasoning,Elsevier,http://dblp.uni-trier.de/db/journals/ijar/
+jair,B,Journal,8,Journal of Artificial Intelligence Research,AAAI,http://dblp.uni-trier.de/db/journals/jair/index.html
+jar,B,Journal,8,Journal of Automated Reasoning,Springer,http://dblp.uni-trier.de/db/journals/jar/
+jslhr,B,Journal,8,"Journal of Speech, Language, and Hearing Research",American Speech- Language Hearing Association,http://jslhr.pubs.asha.org/
+ml,B,Journal,8,Machine Learning,Springer,http://dblp.uni-trier.de/db/journals/ml/
+neco,B,Journal,8,Neural Computation,MIT Press,http://dblp.uni-trier.de/db/journals/neco/
+nn,B,Journal,8,Neural Networks,Elsevier,http://dblp.uni-trier.de/db/journals/nn/
+pr,B,Journal,8,Pattern Recognition,Elsevier,http://dblp.uni-trier.de/db/conf/par/
+tallip,C,Journal,8,ACM Transactions on Asian and Low-Resource Language Information Processing,ACM,http://dblp.uni-trier.de/db/journals/talip/
+apin,C,Journal,8,Applied Intelligence,Springer,http://dblp.uni-trier.de/db/journals/apin/
+aim,C,Journal,8,Artificial Intelligence in Medicine,Elsevier,http://dblp.uni-trier.de/db/journals/artmed/
+alife,C,Journal,8,Artificial Life,MIT Press,http://dblp.uni-trier.de/db/journals/alife/
+ci,C,Journal,8,Computational Intelligence,Wiley,http://dblp.uni-trier.de/db/journals/ci/
+csl,C,Journal,8,Computer Speech and Language,Elsevier,http://dblp.uni-trier.de/db/journals/csl/
+connection,C,Journal,8,Connection Science,Taylor & Francis,http://dblp.uni-trier.de/db/journals/connection/
+dss,C,Journal,8,Decision Support Systems,Elsevier,http://dblp.uni-trier.de/db/journals/dss/
+eaai,C,Journal,8,Engineering Applications of Artificial Intelligence,Elsevier,http://dblp.uni-trier.de/db/journals/eaai/
+es,C,Journal,8,Expert Systems,Blackwell/Wiley,http://dblp.uni-trier.de/db/journals/es/
+eswa,C,Journal,8,Expert Systems with Applications,Elsevier,http://dblp.uni-trier.de/db/journals/eswa/
+fss,C,Journal,8,Fuzzy Sets and Systems,Elsevier,http://dblp.uni-trier.de/db/journals/fss/
+tg,C,Journal,8,IEEE Transactions on Games,IEEE,http://dblp.uni-trier.de/db/journals/tciaig/
+ietcvi,C,Journal,8,IET Computer Vision,IET,http://digital-library.theiet.org/content/journals/iet-cvi
+ietspr,C,Journal,8,IET Signal Processing,IET,* http://digital-library.theiet.org/content/journals/iet-spr
+ivc,C,Journal,8,Image and Vision Computing,Elsevier,http://dblp.uni-trier.de/db/journals/ivc/
+ida,C,Journal,8,Intelligent Data Analysis,IOS Press,http://dblp.uni-trier.de/db/journals/ida/
+ijcia,C,Journal,8,International Journal of Computational Intelligence and Applications,World Scientific,http://dblp.uni-trier.de/db/journals/ijcia/
+ijis,C,Journal,8,International Journal of Intelligent Systems,Wiley,http://dblp.uni-trier.de/db/journals/ijis/
+ijns,C,Journal,8,International Journal of Neural Systems,World Scientific,http://dblp.uni-trier.de/db/journals/ijns/
+ijprai,C,Journal,8,International Journal of Pattern Recognition and Artificial Intelligence,World Scientific,http://dblp.uni-trier.de/db/journals/ijprai/
+ijufks,C,Journal,8,"International Journal of Uncertainty, Fuzziness and Knowledge-Based System",World Scientific,https://dblp.uni-trier.de/db/journals/ijufks/
+ijdar,C,Journal,8,International Journal on Document Analysis and Recognition,Springer,http://dblp.uni-trier.de/db/journals/ijdar/
+jetai,C,Journal,8,Journal of Experimental and Theoretical Artificial Intelligence,Taylor & Francis,http://dblp.uni-trier.de/db/journals/jetai/
+kbs,C,Journal,8,Knowledge-Based Systems,Elsevier,http://dblp.uni-trier.de/db/journals/kbs/
+mt,C,Journal,8,Machine Translation,Springer,http://dblp.uni-trier.de/db/journals/mt/
+mva,C,Journal,8,Machine Vision and Applications,Springer,http://dblp.uni-trier.de/db/journals/mva/
+nc,C,Journal,8,Natural Computing,Springer,http://dblp.uni-trier.de/db/journals/nc/
+nle,C,Journal,8,Natural Language Engineering,Cambridge University Press,http://dblp.uni-trier.de/db/journals/nle/
+nca,C,Journal,8,Neural Computing & Applications,Springer,http://dblp.uni-trier.de/db/journals/nca/
+npl,C,Journal,8,Neural Processing Letters,Springer,http://dblp.uni-trier.de/db/journals/npl/
+ijon,C,Journal,8,Neurocomputing,Elsevier,http://dblp.uni-trier.de/db/journals/ijon/
+paa,C,Journal,8,Pattern Analysis and Applications,Springer,http://dblp.uni-trier.de/db/journals/paa/
+prl,C,Journal,8,Pattern Recognition Letters,Elsevier,http://dblp.uni-trier.de/db/journals/prl/
+soco,C,Journal,8,Soft Computing,Springer,http://dblp.uni-trier.de/db/journals/soco/
+wi,C,Journal,8,Web Intelligence,IOS Press,http://dblp.uni-trier.de/db/journals/wias/
+aaai,A,Conference,8,AAAI Conference on Artificial Intelligence,AAAI,http://dblp.uni-trier.de/db/conf/aaai/
+neurips,A,Conference,8,Annual Conference on Neural Information Processing Systems,MIT Press,http://dblp.uni-trier.de/db/conf/nips/
+acl,A,Conference,8,Annual Meeting of the Association for Computational Linguistics,ACL,http://dblp.uni-trier.de/db/conf/acl/
+cvpr,A,Conference,8,IEEE Conference on Computer Vision and Pattern Recognition,IEEE,http://dblp.uni-trier.de/db/conf/cvpr/
+iccv,A,Conference,8,International Conference on Computer Vision,IEEE,http://dblp.uni-trier.de/db/conf/iccv/
+icml,A,Conference,8,International Conference on Machine Learning,ACM,http://dblp.uni-trier.de/db/conf/icml/
+ijcai,A,Conference,8,International Joint Conference on Artificial Intelligence,Morgan Kaufmann,http://dblp.uni-trier.de/db/conf/ijcai/
+colt,B,Conference,8,Annual Conference on Computational Learning Theory,Springer,http://dblp.uni-trier.de/db/conf/colt/
+emnlp,B,Conference,8,Conference on Empirical Methods in Natural Language Processing,ACL,http://dblp.uni-trier.de/db/conf/emnlp/
+ecai,B,Conference,8,European Conference on Artificial Intelligence,IOS Press,http://dblp.uni-trier.de/db/conf/ecai/
+eccv,B,Conference,8,European Conference on Computer Vision,Springer,http://dblp.uni-trier.de/db/conf/eccv/
+icra,B,Conference,8,IEEE International Conference on Robotics and Automation,IEEE,http://dblp.uni-trier.de/db/conf/icra/
+icaps,B,Conference,8,International Conference on Automated Planning and Scheduling,AAAI,http://dblp.uni-trier.de/db/conf/aips/
+iccbr,B,Conference,8,International Conference on Case-Based Reasoning and Development,Springer,http://dblp.uni-trier.de/db/conf/iccbr/
+coling,B,Conference,8,International Conference on Computational Linguistics,ACM,http://dblp.uni-trier.de/db/conf/coling/
+kr,B,Conference,8,International Conference on Principles of Knowledge Representation and Reasoning,Morgan Kaufmann,http://dblp.uni-trier.de/db/conf/kr/
+uai,B,Conference,8,International Conference on Uncertainty in Artificial Intelligence,AUAI,http://dblp.uni-trier.de/db/conf/uai/
+aamas,B,Conference,8,International Joint Conference on Autonomous Agents and Multi-agent Systems,Springer,http://dblp.uni-trier.de/db/conf/atal/index.html
+ppsn,B,Conference,8,Parallel Problem Solving from Nature,Springer,http://dblp.uni-trier.de/db/conf/ppsn/
+aistats,C,Conference,8,Artificial Intelligence and Statistics,JMLR,http://dblp.uni-trier.de/db/conf/aistats/
+accv,C,Conference,8,Asian Conference on Computer Vision,Springer,http://dblp.uni-trier.de/db/conf/accv/
+acml,C,Conference,8,Asian Conference on Machine Learning,JMLR,http://dblp.uni-trier.de/db/conf/acml/
+bmvc,C,Conference,8,British Machine Vision Conference,British Machine Vision Association,http://dblp.uni-trier.de/db/conf/bmvc/
+nlpcc,C,Conference,8,CCF International Conference on Natural Language Processing and Chinese Computing,Springer,https://dblp.uni-trier.de/db/conf/nlpcc/
+conll,C,Conference,8,Conference on Computational Natural Language Learning,Association for Computational Linguistics,http://dblp.uni-trier.de/db/conf/conll
+gecco,C,Conference,8,Genetic and Evolutionary Computation Conference,ACM,http://dblp.uni-trier.de/db/conf/gecco/
+ictai,C,Conference,8,IEEE International Conference on Tools with Artificial Intelligence,IEEE,http://dblp.uni-trier.de/db/conf/ictai/
+iros,C,Conference,8,IEEE\RSJ International Conference on Intelligent Robots and Systems,IEEE,http://dblp.uni-trier.de/db/conf/iros/
+alt,C,Conference,8,International Conference on Algorithmic Learning Theory,Springer,http://dblp.uni-trier.de/db/conf/alt/
+icann,C,Conference,8,International Conference on Artificial Neural Networks,Springer,http://dblp.uni-trier.de/db/conf/icann/
+fg,C,Conference,8,International Conference on Automatic Face and Gesture Recognition,IEEE,http://dblp.uni-trier.de/db/conf/fgr/
+icdar,C,Conference,8,International Conference on Document Analysis and Recognition,IEEE,http://dblp.uni-trier.de/db/conf/icdar/
+ilp,C,Conference,8,International Conference on Inductive Logic Programming,Springer,http://dblp.uni-trier.de/db/conf/ilp/
+ksem,C,Conference,8,"International conference on Knowledge Science, Engineering and Management",Springer,http://dblp.uni-trier.de/db/conf/ksem/
+iconip,C,Conference,8,International Conference on Neural Information Processing,Springer,http://dblp.uni-trier.de/db/conf/iconip/
+icpr,C,Conference,8,International Conference on Pattern Recognition,IEEE,http://dblp.uni-trier.de/db/conf/icpr/
+icb,C,Conference,8,International Joint Conference on Biometrics,IEEE,http://dblp.uni-trier.de/db/conf/icb/
+ijcnn,C,Conference,8,International Joint Conference on Neural Networks,IEEE,http://dblp.uni-trier.de/db/conf/ijcnn/
+pricai,C,Conference,8,Pacific Rim International Conference on Artificial Intelligence,Springer,http://dblp.uni-trier.de/db/conf/pricai/
+naacl,C,Conference,8,The Annual Conference of the North American Chapter of the Association for Computational Linguistics,NAACL,http://dblp.uni-trier.de/db/conf/naacl/
+tochi,A,Journal,9,ACM Transactions on Computer-Human Interaction,ACM,http://dblp.uni-trier.de/db/journals/tochi/
+ijhcs,A,Journal,9,International Journal of Human Computer Studies,Elsevier,http://dblp.uni-trier.de/db/journals/ijmms/
+cscw,B,Journal,9,Computer Supported Cooperative Work,Springer,http://dblp.uni-trier.de/db/journals/cscw/
+hci,B,Journal,9,Human Computer Interaction,Taylor & Francis,http://dblp.uni-trier.de/db/journals/hhci/
+thms,B,Journal,9,IEEE Transactions on Human-Machine Systems,IEEE,http://dblp.uni-trier.de/db/journals/thms/
+iwc,B,Journal,9,Interacting with Computers,Oxford University Press,http://dblp.uni-trier.de/db/journals/iwc/
+ijhci,B,Journal,9,International Journal of Human-Computer Interaction,Taylor & Francis,http://dblp.uni-trier.de/db/journals/ijhci/
+umuai,B,Journal,9,User Modeling and User-Adapted Interaction,Springer,http://dblp.uni-trier.de/db/journals/umuai/
+bit,C,Journal,9,Behaviour & Information Technology,Taylor & Francis,http://dblp.uni-trier.de/db/journals/behaviourIT/
+puc,C,Journal,9,Personal and Ubiquitous Computing,Springer,http://dblp.uni-trier.de/db/journals/puc/
+pmc,C,Journal,9,Pervasive and Mobile Computing,Elsevier,http://dblp.uni-trier.de/db/journals/percom/
+cscw,A,Conference,9,ACM Conference on Computer Supported Cooperative Work and Social Computing,ACM,http://dblp.uni-trier.de/db/conf/cscw
+chi,A,Conference,9,ACM Conference on Human Factors in Computing Systems,ACM,http://dblp.uni-trier.de/db/conf/chi
+ubicomp,A,Conference,9,ACM International Conference on Ubiquitous Computing,ACM,http://dblp.uni-trier.de/db/conf/huc/
+group,B,Conference,9,ACM Conference on Supporting Group Work,ACM,http://dblp.uni-trier.de/db/conf/group/
+iui,B,Conference,9,ACM International Conference on Intelligent User Interfaces,ACM,http://dblp.uni-trier.de/db/conf/iui/
+its,B,Conference,9,ACM International Conference on Interactive Tabletops and Surfaces,ACM,http://dblp.uni-trier.de/db/conf/tabletop/
+uist,B,Conference,9,ACM Symposium on User Interface Software and Technology,ACM,http://dblp.uni-trier.de/db/conf/uist/
+ecscw,B,Conference,9,European Conference on Computer Supported Cooperative Work,Springer,http://dblp.uni-trier.de/db/conf/ecscw/
+percom,B,Conference,9,IEEE International Conference on Pervasive Computing and Communications,IEEE,http://dblp.uni-trier.de/db/conf/percom/
+mobilehci,B,Conference,9,International Conference on Human Computer Interaction with Mobile Devices and Services,ACM,http://dblp.uni-trier.de/db/conf/mhci/
+dis,C,Conference,9,ACM Conference on Designing Interactive Systems,ACM,http://dblp.uni-trier.de/db/conf/ACMdis
+icmi,C,Conference,9,ACM International Conference on Multimodal Interaction,ACM,http://dblp.uni-trier.de/db/conf/icmi/
+assets,C,Conference,9,ACM SIGACCESS Conference on Computers and Accessibility,ACM,http://dblp.uni-trier.de/db/conf/assets
+gi,C,Conference,9,Graphics Interface conference,ACM,http://dblp.uni-trier.de/db/conf/graphicsinterface/
+uic,C,Conference,9,IEEE International Conference on Ubiquitous Intelligence and Computing,IEEE,http://dblp.uni-trier.de/db/conf/uic/
+haptics,C,Conference,9,IEEE World Haptics Conference,IEEE,http://dblp.uni-trier.de/db/conf/haptics/
+interact,C,Conference,9,IFIP TC13 Conference on Human-Computer Interaction,IFIP,http://dblp.uni-trier.de/db/conf/interact/
+idc,C,Conference,9,Interaction Design and Children,ACM,http://dblp.uni-trier.de/db/conf/acmidc/
+collaboratecom,C,Conference,9,"International Conference on Collaborative Computing: Networking, Applications and Worksharing",Springer,http://collaboratecom.org
+cscwd,C,Conference,9,International Conference on Computer Supported Cooperative Work in Design,Springer,http://dblp.uni-trier.de/db/conf/cscwd/
+coopis,C,Conference,9,International Conference on Cooperative Information Systems,Springer,http://dblp.uni-trier.de/db/conf/coopis/
+mobiquitous,C,Conference,9,"International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services",Springer,http://dblp.uni-trier.de/db/conf/mobiquitous/
+avi,C,Conference,9,International Working Conference on Advanced Visual Interfaces,ACM,http://dblp.uni-trier.de/db/conf/avi/
+jacm,A ,Journal,10,Journal of the ACM,ACM,http://dblp.uni-trier.de/db/journals/jacm/
+procieee,A ,Journal,10,Proceedings of the IEEE,IEEE,http://dblp.uni-trier.de/db/journals/pieee/
+bioinformatics,B,Journal,10,Bioinformatics,Oxford University Press,http://dblp.uni-trier.de/db/journals/bioinformatics/
+bib,B,Journal,10,Briefings in Bioinformatics,Oxford University Press,http://dblp.uni-trier.de/db/journals/bib/
+cognition,B,Journal,10,Cognition：International Journal of Cognitive Science,Elsevier,http://www.journals.elsevier.com/cognition/
+tasae,B,Journal,10,IEEE Transactions on Automation Science and Engineering,IEEE,http://dblp.uni-trier.de/db/journals/tase/
+tgars,B,Journal,10,IEEE Transactions on Geoscience and Remote Sensing,IEEE,http://dblp.uni-trier.de/db/journals/tgrs/
+tits,B,Journal,10,IEEE Transactions on Intelligent Transportation Systems,IEEE,http://dblp.uni-trier.de/db/journals/tits/
+tmi,B,Journal,10,IEEE Transactions on Medical Imaging,IEEE,http://dblp.uni-trier.de/db/journals/tmi/
+tr,B,Journal,10,IEEE Transactions on Robotics,IEEE,http://dblp.uni-trier.de/db/journals/trob/
+tcbb,B,Journal,10,IEEE-ACM Transactions on Computational Biology and Bioinformatics,IEEE/ACM,http://dblp.uni-trier.de/db/journals/tcbb/
+jcst,B,Journal,10,Journal of Computer Science and Technology,SCIENCE PRESS/Springer,http://dblp.uni-trier.de/db/journals/jcst/
+jamia,B,Journal,10,Journal of the American Medical Informatics Association,BMJ Journals,http://dblp.uni-trier.de/db/journals/jamia/
+ploscb,B,Journal,10,PLOS Computational Biology,Public Library of Science,http://dblp.uni-trier.de/db/journals/ploscb/
+chinaf,B,Journal,10,Science China Information Sciences,Science in China Press/Springer,http://dblp.uni-trier.de/db/journals/chinaf/
+cj,B,Journal,10,The Computer Journal,Oxford University Press,http://dblp.uni-trier.de/db/journals/cj/
+wwwj,B,Journal,10,World Wide Web Journal,Springer,https://www.springer.com/journal/11280
+bmcbi,C,Journal,10,BMC Bioinformatics,BioMed Central,http://dblp.uni-trier.de/db/journals/bmcbi/
+cas,C,Journal,10,Cybernetics and Systems,Taylor & Francis,http://dblp.uni-trier.de/db/journals/cas/
+fcs,C,Journal,10,Frontiers of Computer Science,Higher Education Press,http://dblp.uni-trier.de/db/journals/fcsc/
+lgrs,C,Journal,10,IEEE Geoscience and Remote Sensing Letters,IEEE,http://dblp.uni-trier.de/db/journals/lgrs/
+jbhi,C,Journal,10,IEEE Journal of Biomedical and Health Informatics,IEEE,http://dblp.uni-trier.de/db/journals/titb/
+tbd,C,Journal,10,IEEE Transactions on Big Data,IEEE,https://dblp.uni-trier.de/db/journals/tbd/
+ietits,C,Journal,10,IET Intelligent Transport Systems,IET,http://digital-library.theiet.org/content/journals/iet-its
+jbi,C,Journal,10,Journal of Biomedical Informatics,Elsevier,https://dblp.uni-trier.de/db/journals/jbi/
+mia,C,Journal,10,Medical Image Analysis,Elsevier,http://dblp.uni-trier.de/db/journals/mia/
+www,A,Conference,10,International World Wide Web Conferences,ACM,http://dblp.uni-trier.de/db/conf/www/
+rtss,A,Conference,10,Real-Time Systems Symposium,IEEE,http://dblp.uni-trier.de/db/conf/rtss/
+cogsci,B,Conference,10,Cognitive Science Society Annual Conference,Psychology Press,https://dblp.uni-trier.de/db/conf/cogsci/
+bibm,B,Conference,10,IEEE International Conference on Bioinformatics and Biomedicine,IEEE,http://dblp.uni-trier.de/db/conf/bibm/
+emsoft,B,Conference,10,International Conference on Embedded Software,ACM/IEEE/IFIP,http://dblp.uni-trier.de/db/conf/emsoft/
+ismb,B,Conference,10,International conference on Intelligent Systems for Molecular Biology,Oxford Journals,http://www.iscb.org/about-ismb
+recomb,B,Conference,10,International Conference on Research in Computational Molecular Biology,Springer,http://dblp.uni-trier.de/db/conf/recomb/
+amia,C,Conference,10,American Medical Informatics Association Annual Symposium,AMIA,http://dblp.uni-trier.de/db/conf/amia/
+apbc,C,Conference,10,Asia Pacific Bioinformatics Conference,BioMed Central,http://dblp.uni-trier.de/db/conf/apbc/
+bigdataconf,C,Conference,10,IEEE International Conference on Big Data,IEEE,https://dblp.uni-trier.de/db/conf/bigdataconf/
+ieeecloud,C,Conference,10,IEEE International Conference on Cloud Computing,IEEE,http://dblp.uni-trier.de/db/conf/IEEEcloud/
+smc,C,Conference,10,"IEEE International Conference on Systems, Man, and Cybernetics",IEEE,https://dblp.uni-trier.de/db/conf/smc/
+cosit,C,Conference,10,International Conference on Spatial Information Theory,ACM,http://dblp.uni-trier.de/db/conf/cosit/
+isbra,C,Conference,10,International Symposium on Bioinformatics Research and Applications,Springer,https://dblp.uni-trier.de/db/conf/isbra/
