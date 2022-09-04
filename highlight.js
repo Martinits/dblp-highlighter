@@ -9,7 +9,7 @@ let database = {};
 async function initialize() {
     let response = await fetch(databaseURL);
     if (!response.ok) {
-        console.log("There's been trouble loading the database from github.")
+        console.log("There's been trouble loading the database.")
         return false;
     }
     let csv = await response.text();
@@ -20,7 +20,7 @@ async function initialize() {
     //     type: 'Journal'|'Meeting',
     //     category:'1'-'10'
     // }
-    console.log(database);
+    // console.log(database);
     return true;
 }
 

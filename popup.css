@@ -1,38 +1,17 @@
-.content {
-    width: 500px;
-    margin: 40px auto;
-}
-
-.search {
-    width: 400px;
-    overflow: hidden;
-}
-
-.search input {
-    float: left;
-}
-
-#val {
-    height: 35px;
+#search {
     width: 300px;
-    padding-left: 10px;
+    margin-top: 20px;
 }
 
-#sub {
-    height: 40px;
-    width: 80px;
-    margin-left: 3px;
-    font-size: 20px;
+#oneres {
+    width: 600px;
+    margin-top: 30px;
 }
 
-.show {
-    width: 302px;
-    height: 300px;
-    border: 1px solid #ccc;
-    padding-left: 10px;
-    display: none;
+.thincol {
+    width: 50px;
 }
 
-.show p {
-    font-size: 12px;
+.sel {
+    width: 100px;
 }
