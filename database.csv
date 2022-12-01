@@ -4,7 +4,7 @@ journals/tos,A,Journal,1
 journals/tcad,A,Journal,1
 journals/tc,A,Journal,1
 journals/tpds,A,Journal,1
-journals/taco,B,Journal,1
+journals/taco,A,Journal,1
 journals/taas,B,Journal,1
 journals/todaes,B,Journal,1
 journals/tecs,B,Journal,1
@@ -22,9 +22,11 @@ journals/tcc,C,Journal,1
 journals/integration,C,Journal,1
 journal/10836,C,Journal,1
 journal/grid,C,Journal,1
-journals/mam,C,Journal,1
 journals/rts,C,Journal,1
 journals/tjs,C,Journal,1
+journals/tcasI,C,Journal,1
+journals/ccfthpc,C,Journal,1
+journals/tsusc,C,Journal,1
 conf/ppopp,A,Conference,1
 conf/fast,A,Conference,1
 conf/dac,A,Conference,1
@@ -34,13 +36,13 @@ conf/sc,A,Conference,1
 conf/asplos,A,Conference,1
 conf/isca,A,Conference,1
 conf/usenix,A,Conference,1
+conf/eurosys,A,Conference,1
 conf/cloud,B,Conference,1
 conf/spaa,B,Conference,1
 conf/podc,B,Conference,1
 conf/fpga,B,Conference,1
 conf/cgo,B,Conference,1
 conf/date,B,Conference,1
-conf/eurosys,B,Conference,1
 hotchips.org,B,Conference,1
 conf/cluster,B,Conference,1
 conf/iccd,B,Conference,1
@@ -60,12 +62,12 @@ conf/itc,B,Conference,1
 conf/lisa,B,Conference,1
 conf/mss,B,Conference,1
 conf/rtas,B,Conference,1
+conf/europar,B,Conference,1
 conf/cf,C,Conference,1
 conf/systor,C,Conference,1
 conf/nocs,C,Conference,1
 conf/asap,C,Conference,1
 conf/aspdac,C,Conference,1
-conf/europar,C,Conference,1
 conf/ets,C,Conference,1
 conf/fpl,C,Conference,1
 conf/fccm,C,Conference,1
@@ -86,6 +88,7 @@ conf/islped,C,Conference,1
 conf/ispd,C,Conference,1
 conf/hoti,C,Conference,1
 conf/vts,C,Conference,1
+conf/itc-asia,C,Conference,1
 journals/jsac,A,Journal,2
 journals/tmc,A,Journal,2
 journals/ton,A,Journal,2
@@ -105,6 +108,7 @@ journals/networks,C,Journal,2
 journals/ppna,C,Journal,2
 journals/wicomm,C,Journal,2
 journals/winet,C,Journal,2
+journals/iot,C,Journal,2
 conf/sigcomm,A,Conference,2
 conf/mobicom,A,Conference,2
 conf/infocom,A,Conference,2
@@ -138,6 +142,7 @@ conf/msn,C,Conference,2
 conf/mswim,C,Conference,2
 conf/wasa,C,Conference,2
 conf/hotnets,C,Conference,2
+conf/apnet,C,Conference,2
 journals/tdsc,A,Journal,3
 journals/tifs,A,Journal,3
 journals/joc,A,Journal,3
@@ -153,11 +158,13 @@ journals/ijics,C,Journal,3
 journals/ijisp,C,Journal,3
 journals/istr,C,Journal,3
 journals/scn,C,Journal,3
+journals/cybersecurity,Journal,3
 conf/ccs,A,Conference,3
 conf/eurocrypt,A,Conference,3
 conf/sp,A,Conference,3
 conf/crypto,A,Conference,3
 conf/uss,A,Conference,3
+conf/ndss,A,Conference,3
 conf/acsac,B,Conference,3
 conf/asiacrypt,B,Conference,3
 conf/esorics,B,Conference,3
@@ -168,7 +175,6 @@ conf/ches,B,Conference,3
 conf/dsn,B,Conference,3
 conf/raid,B,Conference,3
 conf/pkc,B,Conference,3
-conf/ndss,B,Conference,3
 conf/tcc,B,Conference,3
 conf/wisec,C,Conference,3
 conf/sacmat,C,Conference,3
@@ -194,12 +200,14 @@ conf/pet,C,Conference,3
 conf/sacrypt,C,Conference,3
 conf/soups,C,Conference,3
 usenix.org/events,C,Conference,3
+conf/eurosp,C,Conference,3
+conf/cisc,C,Conference,3
 journals/toplas,A,Journal,4
 journals/tosem,A,Journal,4
 journals/tse,A,Journal,4
+journals/tsc,A,Journal,4
 journals/ase,B,Journal,4
 journals/ese,B,Journal,4
-journals/tsc,B,Journal,4
 journals/iee,B,Journal,4
 journals/infsof,B,Journal,4
 journals/jfp,B,Journal,4
@@ -218,6 +226,7 @@ journals/jwe,C,Journal,4
 journals/soca,C,Journal,4
 journals/sqj,C,Journal,4
 journals/tplp,C,Journal,4
+journals/pacmpl,C,Journal,4
 conf/pldi,A,Conference,4
 conf/popl,A,Conference,4
 conf/sigsoft,A,Conference,4
@@ -227,6 +236,7 @@ conf/kbse,A,Conference,4
 conf/icse,A,Conference,4
 conf/issta,A,Conference,4
 conf/osdi,A,Conference,4
+conf/fm,A,Conference,4
 conf/ecoop,B,Conference,4
 conf/etaps,B,Conference,4
 conf/iwpc,B,Conference,4
@@ -244,7 +254,6 @@ conf/icws,B,Conference,4
 conf/middleware,B,Conference,4
 conf/sas,B,Conference,4
 conf/esem,B,Conference,4
-conf/fm,B,Conference,4
 conf/issta,B,Conference,4
 conf/hotos,B,Conference,4
 conf/pepm,C,Conference,4
@@ -272,19 +281,21 @@ conf/tase,C,Conference,4
 conf/msr,C,Conference,4
 conf/refsq,C,Conference,4
 conf/wicsa,C,Conference,4
-journals/tods,A ,Journal,4
-journals/tois,A ,Journal,4
-journals/tkde,A ,Journal,4
-journals/vldb,A ,Journal,4
-journals/tkdd,B,Journal,4
-journals/tweb,B,Journal,4
-journals/aei,B,Journal,4
-journals/dke,B,Journal,4
-journals/datamine,B,Journal,4
-journals/ejis,B,Journal,4
-journals/geoinformatica,B,Journal,4
-journals/ipm,B,Journal,4
-journals/isci,B,Journal,4
+conf/internetware,C,Conference,4
+conf/rv,C,Conference,4
+journals/tods,A,Journal,5
+journals/tois,A,Journal,5
+journals/tkde,A,Journal,5
+journals/vldb,A,Journal,5
+journals/tkdd,B,Journal,5
+journals/tweb,B,Journal,5
+journals/aei,B,Journal,5
+journals/dke,B,Journal,5
+journals/datamine,B,Journal,5
+journals/ejis,B,Journal,5
+journals/geoinformatica,B,Journal,5
+journals/ipm,B,Journal,5
+journals/isci,B,Journal,5
 journals/is,B,Journal,5
 journals/jasis,B,Journal,5
 journals/ws,B,Journal,5
@@ -303,6 +314,7 @@ journals/jdm,C,Journal,5
 loi/ugit,C,Journal,5
 journals/jiis,C,Journal,5
 journals/jsis,C,Journal,5
+journals/dase,C,Journal,5
 conf/sigmod,A,Conference,5
 conf/kdd,A,Conference,5
 conf/icde,A,Conference,5
@@ -319,6 +331,7 @@ conf/icdt,B,Conference,5
 conf/edbt,B,Conference,5
 conf/cidr,B,Conference,5
 conf/sdm,B,Conference,5
+conf/recsys,B,Conference,5
 conf/apweb,C,Conference,5
 conf/dexa,C,Conference,5
 conf/ecir,C,Conference,5
@@ -331,6 +344,7 @@ conf/waim,C,Conference,5
 conf/ssd,C,Conference,5
 conf/pakdd,C,Conference,5
 conf/wise,C,Conference,5
+conf/adma,C,Conference,5
 journals/tit,A,Journal,6
 journals/iandc,A,Journal,6
 journals/siamcomp,A,Journal,6
@@ -372,6 +386,7 @@ conf/cade,B,Conference,6
 conf/concur,B,Conference,6
 conf/hybrid,B,Conference,6
 conf/sat,B,Conference,6
+conf/cocoon,B,Conference,6
 conf/csl,C,Conference,6
 conf/fmcad,C,Conference,6
 conf/fsttcs,C,Conference,6
@@ -382,6 +397,7 @@ conf/rta,C,Conference,6
 conf/isaac,C,Conference,6
 conf/mfcs,C,Conference,6
 conf/stacs,C,Conference,6
+conf/setta,C,Conference,6
 journals/tog,A,Journal,7
 journals/tip,A,Journal,7
 journals/tvcg,A,Journal,7
@@ -407,6 +423,7 @@ journals/mta,C,Journal,7
 journals/sigpro,C,Journal,7
 journals/spic,C,Journal,7
 journals/vc,C,Journal,7
+journal/cvm,C,Journal,7
 conf/mm,A,Conference,7
 conf/siggraph,A,Conference,7
 conf/vr,A,Conference,7
@@ -424,6 +441,7 @@ conf/icmcs,B,Conference,7
 conf/ismar,B,Conference,7
 conf/pg,B,Conference,7
 conf/sma,B,Conference,7
+conf/miccai,B,Conference,7
 conf/vrst,C,Conference,7
 conf/ca,C,Conference,7
 conf/cgi,C,Conference,7
@@ -436,6 +454,9 @@ conf/icip,C,Conference,7
 conf/mmm,C,Conference,7
 conf/pcm,C,Conference,7
 conf/smi,C,Conference,7
+computer.org/csdl,C,Conference,7
+conf/cvm,C,Conference,7
+conf/prcv,C,Conference,7
 journals/ai,A,Journal,8
 journals/pami,A,Journal,8
 journals/ijcv,A,Journal,8
@@ -461,6 +482,7 @@ journals/ml,B,Journal,8
 journals/neco,B,Journal,8
 journals/nn,B,Journal,8
 conf/par,B,Journal,8
+journals/tacl,B,Journal,8
 journals/talip,C,Journal,8
 journals/apin,C,Journal,8
 journals/artmed,C,Journal,8
@@ -497,6 +519,7 @@ journals/paa,C,Journal,8
 journals/prl,C,Journal,8
 journals/soco,C,Journal,8
 journals/wias,C,Journal,8
+journals/tiis,C,Journal,8
 conf/aaai,A,Conference,8
 conf/nips,A,Conference,8
 conf/acl,A,Conference,8
@@ -516,6 +539,7 @@ conf/kr,B,Conference,8
 conf/uai,B,Conference,8
 conf/atal,B,Conference,8
 conf/ppsn,B,Conference,8
+conf/naacl,B,Conference,8
 conf/aistats,C,Conference,8
 conf/accv,C,Conference,8
 conf/acml,C,Conference,8
@@ -536,7 +560,6 @@ conf/icpr,C,Conference,8
 conf/icb,C,Conference,8
 conf/ijcnn,C,Conference,8
 conf/pricai,C,Conference,8
-conf/naacl,C,Conference,8
 journals/tochi,A,Journal,9
 journals/ijmms,A,Journal,9
 journals/cscw,B,Journal,9
@@ -545,19 +568,22 @@ journals/thms,B,Journal,9
 journals/iwc,B,Journal,9
 journals/ijhci,B,Journal,9
 journals/umuai,B,Journal,9
+journals/tsmc,B,Journal,9
 journals/behaviourIT,C,Journal,9
 journals/puc,C,Journal,9
 journals/percom,C,Journal,9
+journals/pacmhci,C,Journal,9
 conf/cscw,A,Conference,9
 conf/chi,A,Conference,9
 conf/huc,A,Conference,9
+conf/uist,A,Conference,9
 conf/group,B,Conference,9
 conf/iui,B,Conference,9
 conf/tabletop,B,Conference,9
-conf/uist,B,Conference,9
 conf/ecscw,B,Conference,9
 conf/percom,B,Conference,9
 conf/mhci,B,Conference,9
+conf/icwsm,B,Conference,9
 conf/ACMdis,C,Conference,9
 conf/icmi,C,Conference,9
 conf/assets,C,Conference,9
@@ -573,6 +599,7 @@ conf/mobiquitous,C,Conference,9
 conf/avi,C,Conference,9
 journals/jacm,A ,Journal,10
 journals/pieee,A ,Journal,10
+journals/chinaf,A,Journal,10
 journals/bioinformatics,B,Journal,10
 journals/bib,B,Journal,10
 journals.elsevier.com/cognition,B,Journal,10
@@ -585,20 +612,26 @@ journals/tcbb,B,Journal,10
 journals/jcst,B,Journal,10
 journals/jamia,B,Journal,10
 journals/ploscb,B,Journal,10
-journals/chinaf,B,Journal,10
 journals/cj,B,Journal,10
 journals/11280,B,Journal,10
+journals/fcsc,B,Journal,10
 journals/bmcbi,C,Journal,10
 journals/cas,C,Journal,10
-journals/fcsc,C,Journal,10
 journals/lgrs,C,Journal,10
 journals/titb,C,Journal,10
 journals/tbd,C,Journal,10
 journals/iet-its,C,Journal,10
 journals/jbi,C,Journal,10
 journals/mia,C,Journal,10
+journals/tii,C,Journal,10
+journals/tcps,C,Journal,10
+journals/jeric,C,Journal,10
+journals/jzusc,C,Journal,10
+journals/tcss,C,Journal,10
+journals/tr,C,Journal,10
 conf/www,A,Conference,10
 conf/rtss,A,Conference,10
+conf/wine,A,Conference,10
 conf/cogsci,B,Conference,10
 conf/bibm,B,Conference,10
 conf/emsoft,B,Conference,10
@@ -611,3 +644,6 @@ conf/IEEEcloud,C,Conference,10
 conf/smc,C,Conference,10
 conf/cosit,C,Conference,10
 conf/isbra,C,Conference,10
+conf/sagt,C,Conference,10
+journals/sigspatial,C,Conference,10
+conf/icic,C,Conference,10

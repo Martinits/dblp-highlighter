@@ -26,7 +26,10 @@ async function initialize() {
 
 function searchInDatabase(site) {
     for (let item of database) {
-        if (site.includes(item.key)) {
+        var idx = site.indexOf(item.key)
+        if (idx == -1) continue;
+        idx += item.key.length
+        if (site.length <= idx || ! site[idx].match(/^[0-9a-zA-Z]$/)){
             return getDescriptorFromItem(item);
         }
     }
