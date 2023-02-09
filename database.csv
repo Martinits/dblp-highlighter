@@ -181,7 +181,7 @@ conf/sacmat,C,Conference,3
 conf/drm,C,Conference,3
 conf/ih,C,Conference,3
 conf/acns,C,Conference,3
-conf/ccs,C,Conference,3
+conf/ccs/asiaccs,C,Conference,3
 conf/acisp,C,Conference,3
 conf/ctrsa,C,Conference,3
 conf/dimva,C,Conference,3

@@ -25,20 +25,24 @@ async function initialize() {
 }
 
 function searchInDatabase(site) {
+    var res = null;
     for (let item of database) {
-        var idx = site.indexOf(item.key)
-        if (idx == -1) continue;
-        idx += item.key.length
-        if (site.length <= idx || ! site[idx].match(/^[0-9a-zA-Z]$/)){
-            return getDescriptorFromItem(item);
+        if (site.includes(item.key)) {
+            if( res == null || item.key.length > res.key.length){
+                res = item;
+            }
         }
     }
-    // We do not know this site!
-    console.log(`Unknown site: ${site}`);
-    return {
-        text: "Unknown",
-        color: mapLevelToColor("Unknown")
-    };
+    if(res) {
+        return getDescriptorFromItem(res);
+    }else{
+        // We do not know this site!
+        console.log(`Unknown site: ${site}`);
+        return {
+            text: "Unknown",
+            color: mapLevelToColor("Unknown")
+        };
+    }
 }
 
 function getDescriptorFromItem(item) {
